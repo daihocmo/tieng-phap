@@ -7,8 +7,15 @@ repo_url: https://github.com/daihocmo/tieng-phap
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Hướng dẫn': 'guide.md'
-  - 'Tài nguyên': 'resources.md'
+  - 'Hướng dẫn':
+    - 'Tự học Tiếng Pháp': 'guide.md'
+    - 'Immersion': 'immersion.md'
+    - 'Nghe Tiếng Pháp': 'listening.md'
+    - 'Đọc Tiếng Pháp': 'reading.md'
+    - 'Cao nguyên trung cấp': 'the-intermediate-plateau.md'
+  - 'Tài nguyên': 
+    - 'Học': 'resources.md'
+    - 'Nội dung Tiếng Pháp': 'recommendations.md'
  
 theme:
   palette:
