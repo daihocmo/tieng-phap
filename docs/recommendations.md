@@ -1,356 +1,234 @@
+# Nội dung Tiếng Pháp
 
-### Comprehensible Input (CI)
+## 🎯 Comprehensible Input (Nội dung dễ hiểu cho người mới)
 
-CI content helps learners understand the basic idea of what they watch or listen to. Below are resources tailored for beginners.
+### Video CI cho người mới
 
-#### Video
-- [French Comprehensible Input](https://www.youtube.com/c/FrenchComprehensibleInput/videos): Native speaker creates easy introductory videos. Standard French. Beginner (A1-A2). Free access.
-  - A1 Playlist: <https://www.youtube.com/playlist?list=PLXweyiR2fMMf-ZrjCNNKWoeq8L6tlSFUV>
-  - A2 Playlist: <https://www.youtube.com/playlist?list=PLXweyiR2fMMdOhjVUW5416qBAtB_YZag5>
-- [Piece of French](https://www.youtube.com/channel/UCVzyfpNuFF4ENY8zNTIW7ug): Native speaker covers everyday topics with French and English subtitles. Standard French. Beginner. Free access.
-- [Alice Ayel](https://www.youtube.com/c/aliceayel/featured): Stories told as if to a child, ideal for beginners. Standard French. Beginner. Free access.
-  - Playlists: 
-    - Marie et Médor à Paris: <https://www.youtube.com/playlist?list=PLD0666ZhOzwg6J6LN8lNVvTcEy-j_dvUn>
-    - Histoires de la communauté: <https://www.youtube.com/playlist?list=PLD0666ZhOzwjYkGgSlUA44RZEZe8waHCW>
-    - Au Portugal: <https://www.youtube.com/playlist?list=PLD0666ZhOzwjO9FwLgZ4rjwrRJJVdiY7L>
-    - Culture francophone, Qui est?: <https://www.youtube.com/playlist?list=PLD0666ZhOzwh22Nz3-4cGylBKGVHqB1jd>
-- [French in Action](https://www.youtube.com/playlist?list=PL4lJLtpfKDUEUofMMkp9XO0l8vM10BMAh): 52 episodes by Pierre Capretz teaching French through immersion. Standard French. Beginner. Free access (region-locked to Canada/USA; use VPN or alternative links).
-- [Apprendre le français québécois](https://www.youtube.com/channel/UCJFoGNSmZd6WWuz1QLWkNlw): Focuses on Quebec French. Quebec French. Beginner to Intermediate. Free access.
-- [Super Easy French](https://www.youtube.com/playlist?list=PL2hhUrCOVPfzWgG6AgcShL14KC3ov8VN1): Near-natural speech with contextual videos. Standard French. Beginner to Intermediate. Free access.
+- [French Comprehensible Input](https://www.youtube.com/c/FrenchComprehensibleInput/videos): Video nhập môn do người bản xứ thực hiện, nói chậm, dễ hiểu (A1–A2).
+- [A1 Playlist](https://www.youtube.com/playlist?list=PLXweyiR2fMMf-ZrjCNNKWoeq8L6tlSFUV): Playlist trình độ A1.
+- [A2 Playlist](https://www.youtube.com/playlist?list=PLXweyiR2fMMdOhjVUW5416qBAtB_YZag5): Playlist trình độ A2.
+- [Alice Ayel](https://www.youtube.com/c/aliceayel/featured): Kể chuyện như cho trẻ em, rất phù hợp người mới.
 
-#### Audio
-- [Fleur-de-lis: A French Podcast](https://fleurdelispodcast.podbean.com/): Slow-spoken podcast in Quebec French for beginners and intermediates. Quebec French. Beginner to Intermediate. Free access.
-- [Duolingo French Podcasts](https://podcast.duolingo.com/french): Stories in slowed-down French with English descriptions. Standard French. Beginner. Free access.
+- [Marie et Médor à Paris](https://www.youtube.com/playlist?list=PLD0666ZhOzwg6J6LN8lNVvTcEy-j_dvUn): Playlist truyện của Alice Ayel.
+- [Histoires de la communauté](https://www.youtube.com/playlist?list=PLD0666ZhOzwjYkGgSlUA44RZEZe8waHCW): Playlist truyện cộng đồng.
+- [Au Portugal](https://www.youtube.com/playlist?list=PLD0666ZhOzwjO9FwLgZ4rjwrRJJVdiY7L): Playlist truyện theo bối cảnh.
+- [Culture francophone, Qui est?](https://www.youtube.com/playlist?list=PLD0666ZhOzwh22Nz3-4cGylBKGVHqB1jd): Playlist văn hóa Pháp ngữ.
 
-#### Graded Readers (With Audio)
-- [Duolingo Stories](https://www.duolingo.com/stories): Short stories with audio. Standard French. Beginner. Free access; see <https://watch.screencastify.com/v/4hasiXrgE93x85xUqYDT> for access without completing the course.
-- [Culturetheque](https://www.culturetheque.com/US/): Graded readers with audio, including simplified French literature. Standard French. Beginner to Intermediate. Requires Alliance Française membership ($100/year via [FIAF](https://fiaf.org/membership/individual/)).
-- [Storyplayr](https://www.storyplayr.com/): Children’s books with audio and illustrations. Standard French. Beginner. Subscription-based.
-- [The Fable Cottage](https://www.thefablecottage.com/): Children’s tales with audio, English transcriptions, and some videos. Standard French. Beginner. Free access.
+- [French in Action](https://www.youtube.com/playlist?list=PL4lJLtpfKDUEUofMMkp9XO0l8vM10BMAh): 52 tập học tiếng Pháp theo phương pháp nhập vai.
+- [Apprendre le français québécois](https://www.youtube.com/channel/UCJFoGNSmZd6WWuz1QLWkNlw): Nội dung tiếng Pháp Quebec.
+- [Super Easy French](https://www.youtube.com/playlist?list=PL2hhUrCOVPfzWgG6AgcShL14KC3ov8VN1): Video nói gần với đời thực, có ngữ cảnh.
 
-### YouTube Channels
+## 🎧 Audio dễ hiểu
 
-#### General
-- [InnerFrench](https://www.youtube.com/c/innerFrench/featured): Diverse learner-focused content. Standard French. Beginner to Intermediate. Free access; transcripts available at [innerfrench.com](https://innerfrench.com/85-france-legaliser-cannabis/) with account.
-- [French Mornings with Elisa](https://www.youtube.com/watch?v=wbi4xhiNs30): Language and culture vlogs. Standard French. Beginner to Intermediate. Free access.
-- [Français Authentique](https://www.youtube.com/@francaisauthentique): Learner content and personal development. Standard French. Beginner to Intermediate. Free access.
-- [Extra French](https://www.youtube.com/playlist?list=PLLDx3Kl1S4oZ6D5oEAnHNXTuIiZDOMD9w): Sitcom for learners, humorous and easy to follow. Standard French. Beginner. Free access.
-- [Wandering French](https://www.youtube.com/playlist?list=PLhzHJfy2j-I5bCYXmwoNgZl6H3bfV1TJQ): Vlog-style learner content. Standard French. Beginner. Free access.
-- [French Today](https://www.youtube.com/user/FrenchToday): Short vlogs on French culture and places, with accurate subtitles. Standard French. Beginner to Intermediate. Free access.
-- [Maprofdefrançais](https://www.youtube.com/@maprofdefrancais/videos): Quebec French cultural and linguistic explanations. Quebec French. Intermediate. Free access.
+- [Fleur-de-lis Podcast](https://fleurdelispodcast.podbean.com/): Podcast nói chậm, giọng Quebec.
+- [Duolingo French Podcast](https://podcast.duolingo.com/french): Truyện ngắn tiếng Pháp chậm, có mô tả tiếng Anh.
 
-#### Education
-- [Nota Bene](https://www.youtube.com/channel/UCP46_MXP_WG_auH88FnfS1A): History videos with subtitles. Standard French. Intermediate. Free access.
-- [Histoire Géo](https://www.youtube.com/c/HistoireG%C3%A9oOfficiel/videos): History and geography with closed captions. Standard French. Intermediate. Free access.
-- [Télécrayon](https://www.youtube.com/user/TeleCrayon): History content with maps and subtitles. Standard French. Intermediate. Free access.
-- [DirtyBiology](https://www.youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q): Biology popularization. Standard French. Intermediate to Advanced. Free access.
-- [ScienceClic](https://www.youtube.com/c/ScienceClic/videos): Physics popularization. Standard French. Intermediate to Advanced. Free access.
-- [Linguisticae](https://youtu.be/ovi9DdEa5zI): Linguistics-focused channel. Standard French. Intermediate to Advanced. Free access.
-- [Le Vortex](https://www.youtube.com/channel/UCZxLew-WXWm5dhRZBgEFl-Q/videos): Science popularization with a storyline. Standard French. Intermediate. Free access.
-- [Monsieur Phi](https://www.youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw): Philosophy (ethics) videos. Standard French. Intermediate to Advanced. Free access.
-- [Micmaths](https://www.youtube.com/c/Micmaths/videos): Math popularization. Standard French. Intermediate. Free access.
-- [Science 4 All](https://www.youtube.com/c/Science4Allfran%C3%A7ais/videos): Math, science, logic, and philosophy. Standard French. Intermediate to Advanced. Free access.
-- [Cookie Connecté](https://www.youtube.com/c/Cookieconnect%C3%A9): Software architecture. Standard French. Advanced. Free access.
-- [ScienceEtonnante](https://www.youtube.com/c/ScienceEtonnante): Math and physics for general audiences. Standard French. Intermediate. Free access.
-- [Heureka](https://www.youtube.com/watch?v=ZdmJqvYsAFY): Economics videos. Standard French. Intermediate. Free access.
-- [Le Réveilleur](https://www.youtube.com/c/LeR%C3%A9veilleur/featured): Ecology-focused content. Standard French. Intermediate. Free access.
-- [Fouloscopie](https://www.youtube.com/c/Fouloscopie): Crowd behavior studies. Standard French. Intermediate. Free access.
-- [Tout Simplement](https://www.youtube.com/channel/UCzMHLUJ8xTqDq6xsk0N5IdQ): Animated scientific explanations. Standard French. Intermediate. Free access.
+## 📘 Sách đọc phân cấp (có audio)
 
-#### Comedy
-- [TheoBabac](https://www.youtube.com/channel/UCGt553K1a2MNHfioKJFPCPA): Comedy sketches. Standard French. Intermediate. Free access.
-- [Léopold](https://www.youtube.com/c/L%C3%A9opoldlemarchand): Comedy sketches. Standard French. Intermediate. Free access.
-- [RiadhOFG](https://www.youtube.com/c/RiadhOFG): Sketches, occasionally educational. Standard French. Intermediate. Free access.
-- [Cyprien](https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ): Short comedy films and informational videos. Standard French. Intermediate. Free access.
-- [NORMAN FAIT DES VIDÉOS](https://www.youtube.com/channel/UCww2Pkate69NFdBeuRFTAw): Short comedy sketches with subtitles. Standard French. Intermediate. Free access.
-- [Bref](https://www.youtube.com/c/bref): Short summary-style comedy sketches. Standard French. Intermediate. Free access.
-- [Dr Suture](https://www.youtube.com/playlist?list=PLcwyZUJN61IUC4SXXWshCQV1pf3MhKplA): Claymation comedy about medical scenarios. Standard French. Intermediate. Free access.
+- [Duolingo Stories](https://www.duolingo.com/stories): Truyện ngắn kèm audio.
+- [Culturethèque](https://www.culturetheque.com/US/): Thư viện sách giản lược có audio.
+- [Storyplayr](https://www.storyplayr.com/): Sách thiếu nhi có hình và audio.
+- [The Fable Cottage](https://www.thefablecottage.com/): Truyện cổ tích thiếu nhi có audio và transcript.
 
-#### Gaming
-- [Squeezie](https://www.youtube.com/channel/UCWeg2Pkate69NFdBeuRFTAw): Gaming and funny videos. Standard French. Intermediate. Free access.
-- [Miss Harvey](https://www.youtube.com/channel/UCCe6fjFE-5IHmQt6XVcRIwA): Quebecois gaming content. Quebec French. Intermediate. Free access.
-- [Iconoclaste](https://www.youtube.com/c/L-iconoclaste-chroniques/videos): Gaming character breakdowns. Standard French. Intermediate. Free access.
-- [Laupok](https://www.youtube.com/c/LaupokLaupocute/videos): Goofy gaming videos. Standard French. Intermediate. Free access.
-- [Edward](https://www.youtube.com/channel/UCDsdjYgVORwLficCmpZi8eg): Retro game reviews and history. Standard French. Intermediate. Free access.
-- [Game Next Door](https://www.youtube.com/c/GameNextDoor01/videos): Video essays and game reviews. Standard French. Intermediate. Free access.
-- [Trxns](https://www.youtube.com/c/Transculture/videos): Cultural origins of Pokémon. Standard French. Intermediate. Free access.
-- [Ninjaxx](https://www.youtube.com/channel/UCDB1PaqiausfXbVI2Jjk0iQ): Minecraft with mods. Standard French. Intermediate. Free access.
-- [Ascuns](https://www.youtube.com/c/AscunsYoutube): Retro game reviews. Standard French. Intermediate. Free access.
-- [Rôle ‘n Play](https://www.youtube.com/c/R%C3%B4lenPlay): Tabletop roleplaying. Standard French. Intermediate. Free access.
-- [SuperJDay64](https://www.youtube.com/c/SuperJDay64): Mario speedrun commentary. Standard French. Intermediate. Free access.
-- [NostalGeek](https://www.youtube.com/c/NostalGeekYT/featured): Video game news and discussions. Standard French. Intermediate. Free access.
+## ▶️ YouTube cho người học (General)
 
-#### Anime/Otaku
-- [KAWZZEN](https://www.youtube.com/c/KawZzeN/videos): Anime and manga content. Standard French. Intermediate. Free access.
-- [Otakulte](https://www.youtube.com/c/Otakulte/videos): Manga-focused channel. Standard French. Intermediate. Free access.
-- [Gaki Parody](https://www.youtube.com/c/GakiParody/videos): Shounen anime content. Standard French. Intermediate. Free access.
-- [Jehros](https://www.youtube.com/c/Jehros): Anime video essays. Standard French. Intermediate to Advanced. Free access.
-- [Docteur Pralinus](https://www.youtube.com/c/DocteurPralinus): Anime and LGBT culture. Standard French. Intermediate. Free access.
-- [Lapindicite Chronique](https://www.youtube.com/channel/UCWK94JpR34Yo65Edd1OcyHQ): Japanese culture and translations via anime/manga. Standard French. Intermediate. Free access.
-- [Random Watcher](https://www.youtube.com/channel/UCvZ3m6gJnrxt7BU6mtazmTbQ): Silly anime videos. Standard French. Intermediate. Free access.
+- [InnerFrench](https://www.youtube.com/c/innerFrench/featured): Nội dung cho người học, có transcript.
+- [French Mornings with Elisa](https://www.youtube.com/watch?v=wbi4xhiNs30): Vlog ngôn ngữ và văn hóa.
+- [Français Authentique](https://www.youtube.com/@francaisauthentique): Phát triển bản thân và tiếng Pháp.
+- [Extra French](https://www.youtube.com/playlist?list=PLLDx3Kl1S4oZ6D5oEAnHNXTuIiZDOMD9w): Sitcom cho người học.
+- [Wandering French](https://www.youtube.com/playlist?list=PLhzHJfy2j-I5bCYXmwoNgZl6H3bfV1TJQ): Vlog dành cho người học.
+- [French Today](https://www.youtube.com/user/FrenchToday): Văn hóa và đời sống, phụ đề chuẩn.
+- [Maprofdefrançais](https://www.youtube.com/@maprofdefrancais/videos): Nội dung tiếng Pháp Quebec.
 
-#### Culture
-- [Jowti](https://youtu.be/V-r2tb_bM80): Korean culture and comparisons with French culture. Standard French. Intermediate. Free access.
-- [Louis-San](https://www.youtube.com/c/LouisSan/videos): Japanese and French cultural intersections. Standard French. Intermediate. Free access.
-- [Appelez Moi Phil](https://www.youtube.com/channel/UC6FQYYHt0EWAhmK0gIHUieA): French Canadian history and culture. Quebec French. Intermediate. Free access.
-- [Ça Reste Entre Nous](https://www.youtube.com/channel/UCKBkpLXZA6QqxCZnFXZSGGw): Asian experience in France with subtitles. Standard French. Intermediate. Free access.
+## 🧠 YouTube giáo dục
 
-#### Cooking
-- [Chef Michel Dumas](https://www.youtube.com/channel/UCSLyEx8ISkp567AjOAHYN5Q): Simple French recipes. Standard French. Intermediate. Free access.
-- [Food is Love](https://youtube.com/c/FoodisLove): Recipes from traditional to international and vegetarian. Standard French. Intermediate. Free access.
-- [Alice Esmeralda](https://youtube.com/user/AliceEsmeralda): Healthy vegan recipes. Standard French. Intermediate. Free access.
+- [Nota Bene](https://www.youtube.com/channel/UCP46_MXP_WG_auH88FnfS1A): Lịch sử.
+- [Histoire Géo](https://www.youtube.com/c/HistoireG%C3%A9oOfficiel/videos): Lịch sử & địa lý.
+- [Télécrayon](https://www.youtube.com/user/TeleCrayon): Lịch sử với bản đồ.
+- [DirtyBiology](https://www.youtube.com/channel/UCtqICqGbPSbTN09K1_7VZ3Q): Sinh học.
+- [ScienceClic](https://www.youtube.com/c/ScienceClic/videos): Vật lý.
+- [Linguisticae](https://youtu.be/ovi9DdEa5zI): Ngôn ngữ học.
+- [Le Vortex](https://www.youtube.com/channel/UCZxLew-WXWm5dhRZBgEFl-Q/videos): Khoa học tổng hợp.
+- [Monsieur Phi](https://www.youtube.com/channel/UCqA8H22FwgBVcF3GJpp0MQw): Triết học.
+- [Micmaths](https://www.youtube.com/c/Micmaths/videos): Toán học.
+- [Science 4 All](https://www.youtube.com/c/Science4Allfran%C3%A7ais/videos): Toán, khoa học, logic.
+- [Cookie Connecté](https://www.youtube.com/c/Cookieconnect%C3%A9): Kiến trúc phần mềm.
+- [ScienceEtonnante](https://www.youtube.com/c/ScienceEtonnante): Toán & vật lý.
+- [Heureka](https://www.youtube.com/watch?v=ZdmJqvYsAFY): Kinh tế.
+- [Le Réveilleur](https://www.youtube.com/c/LeR%C3%A9veilleur/featured): Môi trường.
+- [Fouloscopie](https://www.youtube.com/c/Fouloscopie): Hành vi đám đông.
+- [Tout Simplement](https://www.youtube.com/channel/UCzMHLUJ8xTqDq6xsk0N5IdQ): Khoa học hoạt hình.
 
-#### Travel
-- [Gregsway](https://www.youtube.com/user/Igregish): Belgian travel vlogs with caravan. Belgian French. Intermediate. Free access.
-- [Bruno Maltor](https://www.youtube.com/c/BrunoMaltor): French travel vlogs. Standard French. Intermediate. Free access.
-- [Mamytwink](https://www.youtube.com/channel/UCjxfoYq1vAEGU7KD_C3I48g): Travel and history documentaries. Standard French. Intermediate. Free access.
+## 😂 Hài kịch
 
-#### Vloggers
-- [Denyzee](https://www.youtube.com/channel/UClOeGHFiUlegRJFGhkMxoHg): Vlogs, DIY, and challenges. Standard French. Intermediate. Free access.
-- [Antastesia](https://www.youtube.com/channel/UCDPxVSjvT-KyQhAetmYTWcg): Vlogs in French and English; see [Antastesialit](https://www.youtube.com/channel/UCwBMjlAhbZRReklVXC3ZYEQ) for literature. Standard French. Intermediate. Free access.
-- [ici Amy Plant](https://www.youtube.com/channel/UC9wzC5mFFcIdguoyveTo6Ng): Vlogs by a computer science student. Standard French. Intermediate. Free access.
-- [Assiarabian](https://www.youtube.com/c/Assiarabian00): Vlogs about studying in Korea. Standard French. Intermediate. Free access.
-- [Superlumos](https://www.youtube.com/channel/UCza6MD2Q01aUpA6Py_gB2qw/featured): Vlogs and self-care. Standard French. Intermediate. Free access.
-- [colineblf](https://www.youtube.com/channel/UC17xcEtSpAqECbRVZxGBspg): Travel and daily vlogs. Standard French. Intermediate. Free access.
+- [TheoBabac](https://www.youtube.com/channel/UCGt553K1a2MNHfioKJFPCPA): Sketch hài.
+- [Léopold](https://www.youtube.com/c/L%C3%A9opoldlemarchand): Sketch hài.
+- [RiadhOFG](https://www.youtube.com/c/RiadhOFG): Sketch hài.
+- [Cyprien](https://www.youtube.com/channel/UCyWqModMQlbIo8274Wh_ZsQ): Hài & video ngắn.
+- [NORMAN FAIT DES VIDÉOS](https://www.youtube.com/channel/UCww2Pkate69NFdBeuRFTAw): Hài ngắn.
+- [Bref](https://www.youtube.com/c/bref): Hài dạng tóm tắt nhanh.
+- [Dr Suture](https://www.youtube.com/playlist?list=PLcwyZUJN61IUC4SXXWshCQV1pf3MhKplA): Hài đất nặn chủ đề y khoa.
 
-#### Quebec YouTubers
-- [Thomas Gauthier](https://www.youtube.com/c/ThomasGauthier): Politics, social issues, comedy, and music. Quebec French. Intermediate. Free access.
-- [Émile Roy](https://www.youtube.com/c/%C3%89mileRoy/featured): Politics and books. Quebec French. Intermediate. Free access.
-- [Rad](https://www.youtube.com/c/Radpointca/featured): Politics and current events. Quebec French. Intermediate. Free access.
-- [MAJ](https://www.youtube.com/c/MAJmonactu/featured): Current events and pop culture. Quebec French. Intermediate. Free access.
-- [Gurky](https://www.youtube.com/c/Gurky/featured): Food challenges. Quebec French. Intermediate. Free access.
-- [Arnaud Soly](https://www.youtube.com/c/ArnaudSoly/videos): Sketch comedy. Quebec French. Intermediate. Free access.
+## 🎮 Gaming
 
-#### Children’s Book Streams
-- [Chut Émilie lit !](https://youtube.com/c/Chut%C3%89milielit): Read-along children’s books. Standard French. Beginner to Intermediate. Free access.
-- [Les Petites Histoires de Maman Renard](https://youtube.com/channel/UCy9oUGD2AzyN66AGrjsfPnA): Children’s story readings. Standard French. Beginner to Intermediate. Free access.
+- [Squeezie](https://www.youtube.com/channel/UCWeg2Pkate69NFdBeuRFTAw): Gaming & giải trí.
+- [Miss Harvey](https://www.youtube.com/channel/UCCe6fjFE-5IHmQt6XVcRIwA): Gaming giọng Quebec.
+- [Iconoclaste](https://www.youtube.com/c/L-iconoclaste-chroniques/videos): Phân tích nhân vật game.
+- [Laupok](https://www.youtube.com/c/LaupokLaupocute/videos): Gaming vui nhộn.
+- [Edward](https://www.youtube.com/channel/UCDsdjYgVORwLficCmpZi8eg): Lịch sử game.
+- [Game Next Door](https://www.youtube.com/c/GameNextDoor01/videos): Review & phân tích game.
+- [Trxns](https://www.youtube.com/c/Transculture/videos): Văn hóa Pokémon.
+- [Ninjaxx](https://www.youtube.com/channel/UCDB1PaqiausfXbVI2Jjk0iQ): Minecraft.
+- [Ascuns](https://www.youtube.com/c/AscunsYoutube): Game retro.
+- [Rôle ‘n Play](https://www.youtube.com/c/R%C3%B4lenPlay): Tabletop RPG.
+- [SuperJDay64](https://www.youtube.com/c/SuperJDay64): Speedrun Mario.
+- [NostalGeek](https://www.youtube.com/c/NostalGeekYT/featured): Tin tức game.
 
-#### News/Documentary
-- [Brut](https://www.youtube.com/c/brutofficiel/featured): Short global documentaries. Standard French. Intermediate. Free access.
-- [Konbini](https://www.youtube.com/user/konbini): Francophone celebrity interviews. Standard French. Intermediate. Free access.
-- [Arte](https://www.youtube.com/c/arteplus7fr/videos): Social and cultural documentaries. Standard French. Intermediate to Advanced. Free access; full programs on [Arte.tv](http://arte.tv/) with VPN.
+## 🌸 Anime / Manga
 
-#### Talk Shows
-- [Easy French](https://www.youtube.com/channel/UCoUWq2QawqdC3-nRXKk-JUw): Street interviews and grammar tips with French/English subtitles. Standard French. Beginner to Intermediate. Free access.
+- [KAWZZEN](https://www.youtube.com/c/KawZzeN/videos): Nội dung anime/manga.
+- [Otakulte](https://www.youtube.com/c/Otakulte/videos): Manga.
+- [Gaki Parody](https://www.youtube.com/c/GakiParody/videos): Anime shounen.
+- [Jehros](https://www.youtube.com/c/Jehros): Phân tích anime.
+- [Docteur Pralinus](https://www.youtube.com/c/DocteurPralinus): Anime & văn hóa LGBT.
+- [Lapindicite Chronique](https://www.youtube.com/channel/UCWK94JpR34Yo65Edd1OcyHQ): Văn hóa Nhật qua anime.
+- [Random Watcher](https://www.youtube.com/channel/UCvZ3m6gJnrxt7BU6mtazmTbQ): Video anime vui.
 
-### Podcasts and Audiobooks
+## 🧒 Đọc truyện thiếu nhi
 
-#### Listening Services
-- [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=en_US&gl=US): Android app with French podcasts and listening stats. Standard French. All levels. Free access.
-- [Radio France](https://www.radiofrance.com/): French public radio with multiple networks (Inter, Info, Culture, Musique, Bleu, FIP, Mouv’). Standard French. All levels. Free access; mobile apps for [iOS](https://apps.apple.com/fr/app/radio-france-podcast-radios/id310211433) and [Android](https://play.google.com/store/apps/details?id=com.radiofrance.radio.radiofrance.android&hl=fr&gl=US).
+- [Chut Émilie lit !](https://youtube.com/c/Chut%C3%89milielit): Đọc sách thiếu nhi.
+- [Les Petites Histoires de Maman Renard](https://youtube.com/channel/UCy9oUGD2AzyN66AGrjsfPnA): Kể chuyện cho trẻ em.
 
-#### Personal Development
-- [Change Ma Vie](https://changemavie.com/episodes): Clothilde Dusoulier discusses common issues with clear, simple language. Standard French. Beginner to Intermediate. Available on Spotify and YouTube.
+## 🗞 Tin tức & Phóng sự
 
-#### News
-- [La Grand Reportage](https://www.rfi.fr/fr/podcasts/grand-reportage/): Current events globally, including French politics. Standard French. Advanced. Available on Spotify.
-- [Les Affaires Étrangères](https://podcasts.apple.com/fr/podcast/affaires-%C3%A9trang%C3%A8res/id608884562): Hour-long current events discussions. Standard French. Advanced. Available on Spotify.
-- [HugoDécrypt](https://www.youtube.com/channel/UCAcAnMF0OrCtUep3Y4M-ZPw): 10-minute daily news briefs. Standard French. Intermediate to Advanced. Available on Spotify and YouTube.
-- [28 Minutes](https://open.spotify.com/show/5vWK8VVtYVqez2TTc0vBwN): Weekday debates on French and international affairs. Standard French. Advanced. Available on Spotify and [Arte.tv](http://arte.tv/) with VPN.
-- [L’Heure du Monde](https://open.spotify.com/show/2ceI3IzPwHJywfQTAtrQSI): 20-minute weekday current events podcast. Standard French. Intermediate. Available on Spotify.
+- [Brut](https://www.youtube.com/c/brutofficiel/featured): Phóng sự ngắn.
+- [Konbini](https://www.youtube.com/user/konbini): Phỏng vấn người nổi tiếng.
+- [Arte](https://www.youtube.com/c/arteplus7fr/videos): Phim tài liệu & xã hội.
 
-#### Talk Shows
-- [6 à La Maison](https://www.france.tv/france-2/6-a-la-maison/): Cultural program with guests discussing culture and news. Standard French. Intermediate to Advanced. Available on France.TV and [C à Vous YouTube](https://www.youtube.com/user/cavousofficiel/videos).
-- [Le Meilleur Podcast](https://open.spotify.com/show/2UUxrYJHcWlWnO9hm0V11t): Guests discuss the “best” in various categories. Standard French. Intermediate. Available on Spotify.
-- [301 Vues](https://open.spotify.com/show/7mFNidSQLV98fvyZQzaO65): Cyprien hosts internet stars. Standard French. Intermediate. Available on Spotify.
-- [La Table Ovale](https://open.spotify.com/show/53YTa4Jif1T8Wmvm3Cm7uI): Mcfly and Carlito host iconic guests. Standard French. Intermediate. Available on Spotify.
+## 🎙 Podcast / Audiobook
 
-#### Culture
-- [France Culture](https://www.franceculture.fr/emissions): Cultural podcasts in various formats (5-60 minutes). Standard French. Intermediate to Advanced. Available on all podcast platforms.
-  - [Les Pieds sur terre](https://www.franceculture.fr/emissions/les-pieds-sur-terre): 30-minute daily reporting on diverse topics. Intermediate.
-  - [Le Pourquoi du comment](https://www.franceculture.fr/emissions/le-pourquoi-du-comment-histoire): 3-minute philosophical segments (science, history, philosophy, economics). Intermediate.
-  - [La Grande Table des idées](https://www.franceculture.fr/emissions/la-grande-table-2eme-partie): 60-minute cultural discussions. Advanced.
-  - [La Méthode Scientifique](https://www.franceculture.fr/emissions/la-methode-scientifique): 60-minute science news and deep dives. Advanced.
-  - [Être et savoir](https://www.franceculture.fr/emissions/rue-des-ecoles): 60-minute education program. Advanced.
-  - [Entendez-vous l’eco?](https://www.franceculture.fr/emissions/entendez-vous-leco): 60-minute economics program. Advanced.
-  - [Science en questions](https://www.franceculture.fr/emissions/la-conversation-scientifique): 45-minute science topics by Étienne Klein. Advanced.
-  - [Toute une vie](https://www.franceculture.fr/emissions/une-vie-une-oeuvre): 60-minute portraits of notable people. Advanced.
-  - [Les chemins de la philosophie](https://www.franceculture.fr/emissions/les-chemins-de-la-philosophie): 60-minute philosophy discussions. Advanced.
+- [Podcast Addict](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict&hl=en_US&gl=US): Ứng dụng nghe podcast Android.
+- [Radio France](https://www.radiofrance.com/): Hệ thống đài phát thanh quốc gia Pháp.
+- [Change Ma Vie](https://changemavie.com/episodes): Phát triển bản thân.
+- [HugoDécrypt](https://www.youtube.com/channel/UCAcAnMF0OrCtUep3Y4M-ZPw): Tin tức 10 phút mỗi ngày.
+- [LitteratureAudio](http://www.litteratureaudio.com/): Audiobook văn học miễn phí.
+- [LibriVox](https://librivox.org/): Audiobook domain công cộng.
 
-#### Comedy
-- [Floodcast](https://podcasts.apple.com/fr/podcast/floodcast/id1019768302): 2-hour comedy podcast with Florent Bernard and Adrien Menielle. Standard French. Intermediate to Advanced. Available on Apple Podcasts.
+## 🎧 Audio rút gọn (Condensed Audio)
 
-#### Gaming
-- [Fin Du Game](https://www.youtube.com/channel/UCxGEpRmsq_wPIP6O8iUwaCQ/videos): Hour-long video game discussions with spoilers. Standard French. Intermediate. Available on YouTube.
-- [Silence on joue!](https://shows.acast.com/silence-on-joue): Hour-long video game discussions. Standard French. Intermediate. Available on Acast.
+- [Miraculous Ladybug Season 1](https://mega.nz/folder/9O0nkRKb#hD14oproOQTYPd8ItXY0Kg): Audio rút gọn từ phim hoạt hình, bỏ cảnh không quan trọng, Pháp chuẩn, trình độ sơ–trung cấp, miễn phí.
 
-#### Single Topic, Single Speaker
-- [Dr. Nozman](https://youtu.be/v1zIh-FJYGg): Science experiments with auto-generated French subtitles. Standard French. Intermediate. Free access.
-- [impolyglot](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy82YWE4NzE4L3BvZGNhc3QvcnNz): Language learning and other topics, highly comprehensible. Standard French. Beginner to Intermediate. Available on Google Podcasts.
+## 📺 Phim & Series – Netflix
 
-#### Single Topic, Multiple Speakers
-- [Le Meilleur Podcast](https://open.spotify.com/show/2UUxrYJHcWlWnO9hm0V11t): Four people discuss a chosen topic (e.g., best cuisine, best rap album). Standard French. Intermediate. Available on Spotify.
-- [Grand Bien Vous Fasse](https://open.spotify.com/show/2UUxrYJHcWlWnO9hm0V11t): Discussions on a chosen topic with minimal slang. Standard French. Intermediate. Available on Spotify.
-- [Kiffe Ta Race](https://www.binge.audio/podcast/kiffetarace): Rokhaya Diallo and Grace Ly discuss race issues. Standard French. Intermediate to Advanced. Available on Binge Audio.
-- [Le Coeur sur la Table](https://www.binge.audio/podcast/le-coeur-sur-la-table): Victoire Tuaillon discusses romantic relationships. Standard French. Intermediate. Available on Binge Audio.
+- [Call My Agent (Dix pour cent)](https://en.wikipedia.org/wiki/Call_My_Agent!): Hài hước về công ty quản lý nghệ sĩ ở Paris, Pháp chuẩn, trung cấp.
+- [Family Business](https://en.wikipedia.org/wiki/Family_Business_%282019_TV_series%29): Gia đình bán thịt mở quán cần sa, hài, trung cấp.
+- [La Flamme](https://fr.wikipedia.org/wiki/La_Flamme_%28s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e%29): Parody The Bachelor, hội thoại rõ, trung cấp.
+- [Bienvenue à Marly-Gomont](https://www.netflix.com/title/80123740): Bác sĩ châu Phi về làng quê Pháp, trung cấp.
+- [C’est quoi cette famille?!](https://www.netflix.com/title/80156856): Gia đình ghép, cảm giác dễ chịu, trung cấp.
+- [L’Ascension](https://www.netflix.com/title/80194671): Leo Everest, hài + truyền cảm hứng, trung cấp.
+- [Romantics Anonymous](https://www.netflix.com/fr-en/title/70184143): Hài lãng mạn về thợ socola nhút nhát, trung cấp.
+- [Blind Date](https://www.netflix.com/title/80123744): Hẹn hò qua bức tường, trung cấp.
+- [Amélie](https://en.wikipedia.org/wiki/Am%C3%A9lie): Hài lãng mạn kinh điển tại Paris, trung cấp.
+- [Into the Night](https://www.netflix.com/title/81008221): Thriller tận thế, Pháp Bỉ, trung–cao cấp.
+- [Le Bazar de la Charité](https://www.netflix.com/title/80213020): Thảm họa cháy lịch sử Paris, trung–cao cấp.
+- [Zone Blanche](https://www.netflix.com/title/81079046): Trinh thám thị trấn rừng, trung–cao cấp.
+- [La Forêt](https://www.netflix.com/title/80240691): Mất tích thiếu nữ, trung–cao cấp.
+- [Au Service de la France](https://www.netflix.com/title/80097771): Hài điệp viên thập niên 60, trung cấp.
 
-#### Multiple Topics, Multiple Speakers
-- [Un Bon Moment](https://www.youtube.com/user/kyankhojandi): Kyan Khojandi and Bruno Muschio host iconic figures, discussing various topics. Standard French. Advanced. Available on YouTube.
+## 📡 Phim & Series – Nền tảng khác
 
-#### Audiobooks
-- [LitteratureAudio](http://www.litteratureaudio.com/): Thousands of free French literature audiobooks. Standard French. Intermediate to Advanced. Free access.
-- [LibriVox](https://librivox.org/): Public domain audiobooks. Standard French. Intermediate to Advanced. Free access.
+- [Derby Girl](https://www.france.tv/slash/derby-girl/): Trượt băng sang roller derby, trung cấp.
+- [Mental](https://www.france.tv/slash/mental/): Hài/drama bệnh viện tâm thần, trung cấp.
+- [Or de Lui](https://www.france.tv/series-et-fictions/series-dramatiques/or-de-lui/): Người đàn ông có tình trạng kỳ lạ, trung cấp.
+- [Stalk](https://www.france.tv/slash/stalk/): Drama hacker tuổi teen, trung cấp.
+- [Lastman](https://www.france.tv/slash/lastman/): Hoạt hình hành động người lớn, trung cấp.
+- [ASKIP](https://www.france.tv/enfants/neuf-douze-ans/askip-le-college-se-la-raconte/): Đời sống học sinh, sơ–trung cấp.
+- [OVNI(s)](https://www.allocine.fr/series/ficheserie_gen_cserie=25457.html): Hài khoa học viễn tưởng về UFO, trung cấp.
+- [Laetitia](https://www.france.tv/france-2/laetitia/): Bắt cóc, trung–cao cấp.
+- [Pokémon the Series](https://watch.pokemon.com/fr-fr/#/category?id=series): Pokémon tiếng Pháp, sơ cấp.
+- [TV5MONDEplus](https://www.tv5mondeplus.com/): Kho phim & show tiếng Pháp, mọi trình độ.
+- [Top Chef France](https://www.youtube.com): Show nấu ăn, trung cấp.
+- [Koh Lanta](https://www.youtube.com): Phiên bản Survivor Pháp, trung cấp.
 
-#### Condensed Audio
-- [Miraculous Ladybug Season 1](https://mega.nz/folder/9O0nkRKb#hD14oproOQTYPd8ItXY0Kg): Condensed audio of episodes with non-essential scenes removed. Standard French. Beginner to Intermediate. Free access (decryption key: hD14oproOQTYPd8ItXY0Kg).
+## 🇨🇦 Series & Phim Quebec
 
-### TV and Movies
+- [Ici Tou.tv](https://ici.tou.tv/): Nền tảng phim Quebec, mọi trình độ.
+- [Le Coeur a ses raisons](https://www.youtube.com/playlist?list=PLp0il021mzfgywmpdTuSRSdUJ-jIhryuQ): Parody phim truyền hình, trung cấp.
+- [Incendies](https://www.youtube.com/watch?v=-3w8iFu7M9c&ab_channel=YouTubeMovies): Drama Denis Villeneuve, trung–cao cấp.
+- [Mommy](https://www.youtube.com/watch?v=Qlo3eJmY2T0&ab_channel=YouTubeMovies): Drama mẹ–con, trung–cao cấp.
 
-#### Netflix
-- [Call My Agent (Dix pour cent)](https://en.wikipedia.org/wiki/Call_My_Agent!): Comedy about a Paris talent agency with famous actors. Standard French. Intermediate. Available on Netflix.
-- [Family Business](https://en.wikipedia.org/wiki/Family_Business_(2019_TV_series)): Comedy about a butcher shop turning into a marijuana coffeeshop. Standard French. Intermediate. Available on Netflix.
-- [La Flamme](https://fr.wikipedia.org/wiki/La_Flamme_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)): Parody of “The Bachelor” with clear dialogue. Standard French. Intermediate. Available on Netflix.
-- [Bienvenue à Marly-Gomont](https://www.netflix.com/title/80123740): Movie about an African doctor in rural France. Standard French. Intermediate. Available on Netflix.
-- [C’est quoi cette famille?!](https://www.netflix.com/title/80156856): Feel-good movie about a blended family. Standard French. Intermediate. Available on Netflix.
-- [L’Ascension](https://www.netflix.com/title/80194671): Comedic/inspiring movie about climbing Everest. Standard French. Intermediate. Available on Netflix.
-- [Romantics Anonymous](https://www.netflix.com/fr-en/title/70184143): Romantic comedy about shy chocolatiers. Standard French. Intermediate. Available on Netflix.
-- [Blind Date](https://www.netflix.com/title/80123744): Romantic comedy about neighbors dating through a wall. Standard French. Intermediate. Available on Netflix.
-- [Amélie](https://en.wikipedia.org/wiki/Am%C3%A9lie): Whimsical romantic comedy set in Paris. Standard French. Intermediate. Available on Netflix France.
-- [Into the Night](https://www.netflix.com/title/81008221): Belgian apocalyptic thriller. Belgian French. Intermediate to Advanced. Available on Netflix.
-- [Le Bazar de la Charité](https://www.netflix.com/title/80213020): Drama about a historical fire in Paris. Standard French. Intermediate to Advanced. Available on Netflix.
-- [Zone Blanche](https://www.netflix.com/title/81079046): Mystery series in a dangerous forest town. Standard French. Intermediate to Advanced. Available on Netflix.
-- [La Forêt](https://www.netflix.com/title/80240691): Mystery about a girl’s disappearance in the Ardennes. Standard French. Intermediate to Advanced. Available on Netflix.
-- [Au Service de la France](https://www.netflix.com/title/80097771): Comedy spy series set in 1960s France. Standard French. Intermediate. Available on Netflix.
+## 🎬 Cơ sở dữ liệu phim
 
-#### Other Streaming Sites
-- [Derby Girl](https://www.france.tv/slash/derby-girl/): Comedy about a figure skater joining a roller derby team. Standard French. Intermediate. Available on France.TV (VPN needed).
-- [Mental](https://www.france.tv/slash/mental/): Comedy/drama in a psychiatric institution. Standard French. Intermediate. Available on France.TV (VPN needed).
-- [Or de Lui](https://www.france.tv/series-et-fictions/series-dramatiques/or-de-lui/): Comedy/drama about a man with an unusual condition. Standard French. Intermediate. Available on France.TV (VPN needed).
-- [Stalk](https://www.france.tv/slash/stalk/): Teen drama about hacking. Standard French. Intermediate. Available on France.TV (VPN needed).
-- [Lastman](https://www.france.tv/slash/lastman/): Animated adult action series. Standard French. Intermediate. Available on France.TV (VPN needed).
-- [ASKIP](https://www.france.tv/enfants/neuf-douze-ans/askip-le-college-se-la-raconte/): Comedy/slice-of-life about high schoolers. Standard French. Beginner to Intermediate. Available on France.TV (VPN needed).
-- [OVNI(s)](https://www.allocine.fr/series/ficheserie_gen_cserie=25457.html): Comedy/SciFi about UFOs. Standard French. Intermediate. Available on Canal+ (VPN may be needed).
-- [Laetitia](https://www.france.tv/france-2/laetitia/): Mini-series about a kidnapping, available on HBO Max in the US with subtitles. Standard French. Intermediate to Advanced. Available on France.TV (VPN needed).
-- [Pokémon the Series](https://watch.pokemon.com/fr-fr/#/category?id=series): Free seasons in French. Standard French. Beginner. Free access.
-- [TV5MONDEplus](https://www.tv5mondeplus.com/): Streaming service with French content. Standard French. All levels. Free access with some paid options.
-- [Top Chef France](https://www.youtube.com): Reality cooking show, no subtitles. Standard French. Intermediate. Search on YouTube.
-- [Koh Lanta](https://www.youtube.com): French version of Survivor. Standard French. Intermediate. Search on YouTube.
+- [IMDb](https://www.imdb.com/): CSDL phim toàn cầu.
+- [Letterboxd](https://letterboxd.com/): Theo dõi phim + danh sách phim Pháp.
+- [SensCritique](https://www.senscritique.com/): Đánh giá phim tiếng Pháp.
+- [AlloCiné](https://www.allocine.fr/): Trang phim lớn nhất Pháp.
 
-#### Quebec Series and Films
-- [Ici Tout](https://ici.tou.tv/): Free streaming site for Quebec content. Quebec French. All levels. Free with some paid options.
-- [Le Coeur a ses raisons](https://www.youtube.com/playlist?list=PLp0il021mzfgywmpdTuSRSdUJ-jIhryuQ): Soap opera parody. Quebec French. Intermediate. Free access on YouTube.
-- [Incendies](https://www.youtube.com/watch?v=-3w8iFu7M9c&ab_channel=YouTubeMovies): Drama by Denis Villeneuve. Quebec French. Intermediate to Advanced. Available on YouTube Movies.
-- [Mommy](https://www.youtube.com/watch?v=Qlo3eJmY2T0&ab_channel=YouTubeMovies): Mother-son drama by Xavier Dolan. Quebec French. Intermediate to Advanced. Available on YouTube Movies.
+## 💬 Phụ đề
 
-#### Film Cataloguing Sites
-- [IMDb](https://www.imdb.com/): Database for French films. Standard French. All levels. Free access.
-- [Letterboxd](https://letterboxd.com/): Film cataloguing with [Top 250 French Language Films](https://letterboxd.com/ericx13/list/letterboxd-top-250-french-language-films/). Standard French. All levels. Free access.
-- [SensCritique](https://www.senscritique.com/): French film reviews. Standard French. All levels. Free access.
-- [AlloCiné](https://www.allocine.fr/): French film database. Standard French. All levels. Free access.
+- [Refold French Subtitle Project](https://icloud.com/pages/08bjSGviqi24hUWQ7GgaBIz5w#Refold_Subtitle_Project_Guide): Dự án phụ đề cộng đồng.
+- [Streamingsites.com](https://streamingsites.com/): Tổng hợp trang streaming & phụ đề.
+- [Yts-subs](https://yts-subs.com/): Phụ đề phim.
+- [Subscene](https://subscene.com/subtitles/searchbytitle): Phụ đề theo tên phim.
+- [OpenSubtitles](https://www.opensubtitles.com/): CSDL phụ đề.
+- [Youglish French](https://youglish.com/french): Tìm video YouTube có từ cần học.
 
-#### Subtitle Resources
-- [Refold French Subtitle Project](https://icloud.com/pages/08bjSGviqi24hUWQ7GgaBIz5w#Refold_Subtitle_Project_Guide): Community project creating French subtitles for native content, downloadable and syncable with Subler. Standard French. All levels. Join via Refold French Discord (#subtitle-project).
-- [Streamingsites.com](https://streamingsites.com/): Lists streaming and subtitle platforms. Standard French. All levels. Free access.
-- [Yts-subs.com](https://yts-subs.com/): Movie subtitles in multiple languages. Standard French. All levels. Free access.
-- [Subscene.com](https://subscene.com/subtitles/searchbytitle): Movie subtitles searchable by title. Standard French. All levels. Free access.
-- [OpenSubtitles.com](https://www.opensubtitles.com/): Movie subtitles database. Standard French. All levels. Free access.
-- [Youglish for French](https://youglish.com/french): Find subtitled YouTube videos by searching specific words. Standard French. All levels. Free access.
+## 📚 Truyện tranh / Webtoon
 
-### Reading
+- [Webtoons FR](https://www.webtoons.com/fr/): Thư viện webtoon tiếng Pháp.
 
-#### Comics
-- [Webtoons.com](https://www.webtoons.com/fr/): French webcomics. Standard French. Intermediate. Free access.
-  - [Let’s Play](https://www.webtoons.com/fr/romance/letsplay/ep-1/viewer?title_no=1819&episode_no=1): Romance about overcoming anxieties. Standard French. Intermediate.
-  - [Lecteur Omniscient](https://www.webtoons.com/fr/fantasy/omniscient-reader/list?title_no=2175): Fantasy. Standard French. Intermediate.
-  - [Lumine](https://www.webtoons.com/fr/fantasy/lumine/list?title_no=1958): Fantasy. Standard French. Intermediate.
-  - [The Boxer](https://www.webtoons.com/fr/action/the-boxer/list?title_no=2037): Action. Standard French. Intermediate.
-  - [High School Mercenary](https://www.webtoons.com/fr/action/high-school-mercenary/list?title_no=2678): Action. Standard French. Intermediate.
-  - [Hero Killer](https://www.webtoons.com/fr/action/hero-killer/list?title_no=3151): Action. Standard French. Intermediate.
-  - [The Warrior Returns](https://www.webtoons.com/fr/fantasy/the-warrior-returns/list?title_no=3445): Fantasy. Standard French. Intermediate.
-  - [Samadhi](https://www.webtoons.com/fr/action/samadhi/list?title_no=3324): Action. Standard French. Intermediate.
-  - [L’Expert de la Tour Tutoriel](https://www.webtoons.com/fr/fantasy/expert-de-la-tour-tutoriel/list?title_no=2312): Fantasy. Standard French. Intermediate.
-  - [Hero Ticket](https://www.webtoons.com/fr/action/heroticket/list?title_no=2178): Action. Standard French. Intermediate.
-  - [Jungle Juice](https://www.webtoons.com/fr/action/jungle-juice/list?title_no=2614): Action. Standard French. Intermediate.
-  - [God of Highschool](https://www.webtoons.com/fr/action/the-god-of-high-school/list?title_no=1831): Action. Standard French. Intermediate.
-  - [Sindorim](https://www.webtoons.com/fr/action/sindorim/list?title_no=1919): Action. Standard French. Intermediate.
-  - [L’Artéfact Dévoreur](https://www.webtoons.com/fr/action/artefact-devoreur/list?title_no=2709): Action. Standard French. Intermediate.
-  - [Bâtard](https://www.webtoons.com/fr/thriller/bastard/list?title_no=1830): Thriller. Standard French. Intermediate.
-  - [Sweet Home](https://www.webtoons.com/fr/thriller/sweethome/list?title_no=1996): Thriller. Standard French. Intermediate.
-  - [Le Garçon au Fusil](https://www.webtoons.com/fr/thriller/shotgun-boy/list?title_no=2609): Thriller. Standard French. Intermediate.
-  - [Hell is Other People](https://www.webtoons.com/fr/thriller/hell-is-other-people/list?title_no=1841): Thriller. Standard French. Intermediate.
-  - [Killstagram](https://www.webtoons.com/fr/thriller/killstagram/list?title_no=2120): Thriller. Standard French. Intermediate.
-  - [66,666 Years: Advent of the Dark Mage](https://www.webtoons.com/fr/fantasy/66666-years-advent-of-the-dark-mage/list?title_no=3583): Fantasy. Standard French. Intermediate.
-  - [I’m the Max-Level Newbie](https://www.webtoons.com/fr/fantasy/max-level-newbie/list?title_no=3517): Fantasy. Standard French. Intermediate.
-  - [Return to Player](https://www.webtoons.com/fr/fantasy/return-to-player/list?title_no=2558): Fantasy. Standard French. Intermediate.
-  - [The Druid of Seoul Station](https://www.webtoons.com/fr/fantasy/druid-seoul-station/list?title_no=3586): Fantasy. Standard French. Intermediate.
-  - [Doom Breaker](https://www.webtoons.com/fr/fantasy/doom-breaker/list?title_no=3323): Fantasy. Standard French. Intermediate.
-  - [Nano List](https://www.webtoons.com/fr/fantasy/nano-list/list?title_no=2228): Fantasy. Standard French. Intermediate.
-  - [Héros Fragile](https://www.webtoons.com/fr/action/weak-hero/list?title_no=2229): Action. Standard French. Intermediate.
-  - [unOrdinary](https://www.webtoons.com/fr/fantasy/unordinary/list?title_no=1847): Fantasy. Standard French. Intermediate.
-  - [Mort Imminente](https://www.webtoons.com/fr/drama/i-will-die-soon/list?title_no=2231): Drama. Standard French. Intermediate.
-  - [Change-moi](https://www.webtoons.com/fr/drama/change-moi/list?title_no=2413): Drama. Standard French. Intermediate.
-  - [My Ghost](https://www.webtoons.com/fr/drama/my-boo/list?title_no=1916): Drama. Standard French. Intermediate.
-  - [Tranchante](https://www.webtoons.com/fr/drama/tranchante/list?title_no=2038): Drama. Standard French. Intermediate.
-  - [Pardon, Maman!](https://www.webtoons.com/fr/drama/pardon-maman/list?title_no=2313): Drama. Standard French. Intermediate.
-  - [J’irai te voir dans ma prochaine vie](https://www.webtoons.com/fr/romance/j-irai-te-voir-dans-ma-prochaine-vie/list?title_no=2357): Romance. Standard French. Intermediate.
-  - [Angelic Lady](https://www.webtoons.com/fr/fantasy/angelic-lady/list?title_no=2865): Fantasy/Romance. Standard French. Intermediate.
-  - [Et ils vécurent heureux](https://www.webtoons.com/fr/romance/et-ils-vecurent-heureux/list?title_no=2993): Romance. Standard French. Intermediate.
-  - [L’Héroïne Disqualifiée !](https://www.webtoons.com/fr/romance/her-secret/list?title_no=2071): Romance. Standard French. Intermediate.
-  - [Dangereux Sourire](https://www.webtoons.com/fr/romance/your-smile-is-a-trap/list?title_no=2097): Romance. Standard French. Intermediate.
-  - [Nice to Meet You](https://www.webtoons.com/fr/romance/nice-to-meet-you/list?title_no=2323): Romance. Standard French. Intermediate.
-  - [Play, Flee](https://www.webtoons.com/fr/romance/play-flee/list?title_no=2419): Romance. Standard French. Intermediate.
-  - [Edith](https://www.webtoons.com/fr/romance/edith/list?title_no=1917): Romance. Standard French. Intermediate.
-  - [Nevertheless](https://www.webtoons.com/fr/romance/nevertheless/list?title_no=3150): Romance. Standard French. Intermediate.
-  - [Les Conseils d’Amour du Grand Duc des Enfers](https://www.webtoons.com/fr/comedy/love-advice/list?title_no=1828): Comedy. Standard French. Intermediate.
-  - [Adventures of God](https://www.webtoons.com/fr/comedy/adventures-of-god/list?title_no=1824): Comedy. Standard French. Intermediate.
-  - [Je Crois que C’est Drôle](https://www.webtoons.com/fr/challenge/je-crois-que-cest-dr%C3%B4le/list?title_no=527060&page=1): Comedy. Standard French. Intermediate.
-  - [La Dose](https://www.webtoons.com/fr/comedy/la-dose/list?title_no=2088&page=1): Comedy. Standard French. Intermediate.
-  - [La Vie Quotidienne d’un Couple Gay](https://www.webtoons.com/fr/challenge/la-vie-quotidienne-dun-couple-gay/list?title_no=620253): Slice of Life. Standard French. Intermediate.
-  - [Le Journal B&B d’Eiko à Paris](https://www.webtoons.com/fr/slice-of-life/le-journal-bnb-d-eiko-a-paris/list?title_no=1949): Slice of Life. Standard French. Intermediate.
-  - [Eiko in Paris](https://www.webtoons.com/fr/slice-of-life/eiko-in-paris/list?title_no=2710): Slice of Life. Standard French. Intermediate.
-- [Lou !](https://www.glenat.com/bd/series/lou): Bande-dessinée about a girl and her single mom, aimed at adolescents. Standard French. Beginner to Intermediate. Available for purchase.
-- [Persepolis](https://fr.wikipedia.org/wiki/Persepolis_(bande_dessin%C3%A9e)): Autobiographical comic about Marjane Satrapi’s childhood in Iran. Standard French. Intermediate to Advanced. Available for purchase.
-- **Notable French BD Characters**: Asterix and Obelix, Tintin, Spirou & Fantasio, Lucky Luke, Titeuf. Standard French. All levels. Available in libraries or for purchase.
-- [Solo Leveling](https://www.japscan.ws/manga/solo-leveling/): Manga in French. Standard French. Intermediate. Free access.
+- [Let’s Play](https://www.webtoons.com/fr/romance/letsplay/ep-1/viewer?title_no=1819&episode_no=1): Romance.
 
-#### Graded Readers
-- [Mondes en VF](https://www.mondesenvf.fr/): Printed novellas with MP3 audio. Standard French. Beginner to Intermediate. Available for purchase.
-- [Le Français Par La Méthode Nature](https://archive.org/details/jensen-arthur-le-francais-par-la-methode-nature): Teaches French entirely in French with audio playlist [here](https://youtube.com/playlist?list=PLf8XN5kNFkhdIS7NMcdUdxibD1UyzNFTP). Standard French. Beginner to Intermediate. Free access.
-- [Initiation à la Littérature Française](https://books-library.net/files/download-pdf-ebooks.org-02211429Ki7G6.pdf): Anthology of French works with illustrations and definitions. Standard French. Intermediate. Free PDF download.
+- [Lecteur Omniscient](https://www.webtoons.com/fr/fantasy/omniscient-reader/list?title_no=2175): Fantasy.
 
-#### Children’s Novels
-- [Madeline Series](https://amzn.to/3dnXcsg): Books about a little girl. Standard French. Beginner to Intermediate. Available on Amazon.
+- [The Boxer](https://www.webtoons.com/fr/action/the-boxer/list?title_no=2037): Hành động.
 
-#### Adolescent Novels
-- [Le Pacte des Marchombres](https://www.goodreads.com/book/show/2096417.Ellana): Fantasy about an assassin-trainee. Standard French. Intermediate. Available on Goodreads.
-- [Phobos](https://www.goodreads.com/book/show/39862087-ascension): Sci-fi dating show on a spaceship. Standard French. Intermediate. Available on Goodreads.
-- [Sauveur & Fils](https://www.goodreads.com/en/book/show/29506032-sauveur-fils-saison-1): Story of a psychologist and his son. Standard French. Intermediate. Available on Goodreads.
+- [Sweet Home](https://www.webtoons.com/fr/thriller/sweethome/list?title_no=1996): Kinh dị.
 
-#### Standard Novels
-- [Bonjour Tristesse](https://www.amazon.com/Bonjour-tristesse-Fran%C3%A7oise-SAGAN/dp/2266195581): 1950s coming-of-age novel by Françoise Sagan. Standard French. Intermediate. Available on Amazon.
-- [Jeune Fille Modèle](https://amzn.to/2OgRQGN): Coming-of-age novel about a Chinese girl in France. Standard French. Intermediate. Available on Amazon.
-- [La Horde Du Contrevent](https://www.goodreads.com/book/show/1397743.La_Horde_du_Contrevent): Fantasy with complex vocabulary. Standard French. Advanced. Available on Goodreads.
-- [L’Homme aux Cercles Bleus](https://www.amazon.com): Crime story by Fred Vargas. Standard French. Advanced. Available on Amazon.
-- [La Quête d’Ewilan](https://www.amazon.fr/Lint%C3%A9grale-Qu%C3%AAte-dEwilan-Pierre-Bottero-ebook/dp/B013BAWPRQ): Fantasy trilogy about a girl with powers. Standard French. Intermediate. Available on Amazon.
+- [unOrdinary](https://www.webtoons.com/fr/fantasy/unordinary/list?title_no=1847): Fantasy học đường.
 
-#### Philosophy
-- [L’Étranger](https://archive.org/details/albertcamus-letranger-1942_201908/mode/2up): Absurdist novel by Albert Camus. Standard French. Intermediate. Free access on Archive.org.
-- [The Book of Five Rings](https://www.amazon.com): Philosophical book by Musashi Miyamoto, poetic and repetitive. Standard French. Intermediate. Available for purchase.
+- [Nice to Meet You](https://www.webtoons.com/fr/romance/nice-to-meet-you/list?title_no=2323): Romance.
 
-#### Scholarly Books/Articles
-- [Discrimination: Contre la Glottophobie](https://www.amazon.com): Sociolinguistics book on French language purification. Standard French. Advanced. Available for purchase.
+- [Adventures of God](https://www.webtoons.com/fr/comedy/adventures-of-god/list?title_no=1824): Hài.
 
-#### Blogs/Forums
-- [André Racicot](https://andreracicot.ca/): Quebec blog on various topics. Quebec French. Intermediate. Free access.
-- [Reddit French Subreddits](https://www.reddit.com/r/annuaire/wiki/index): List of French subreddits. Standard French. All levels. Free access.
-- [Hardware.fr Forum](https://forum.hardware.fr/hfr/Discussions/liste_sujet-1.htm): Active French forum on various topics. Standard French. Intermediate to Advanced. Free access.
-- [Jeuxvideo.com Forum](https://www.jeuxvideo.com/forums.htm): French forum with a lively “Blabla” section. Standard French. Intermediate to Advanced. Free access.
+- [Lou !](https://www.glenat.com/bd/series/lou): BD thiếu niên.
 
-### Games
-- [Alba - A Wildlife Adventure](https://store.steampowered.com/app/1337010/Alba_A_Wildlife_Adventure/): Game about preserving wildlife, with written dialogue. Standard French. Beginner to Intermediate. Available on Steam.
-- [Number Listening Practice](https://langpractice.com/french/): Game to practice French numbers. Standard French. Beginner. Free access.
+- [Persepolis](https://fr.wikipedia.org/wiki/Persepolis_%28bande_dessin%C3%A9e%29): Tự truyện Iran, trung–cao cấp.
 
-### Twitch/YouTube Streams
-- **Gaming/Just Chatting/Variety**: [Locklear](https://www.twitch.tv/locklear), [JLTomy](https://www.twitch.tv/jltomy), [Kameto](https://www.twitch.tv/kamet0), [Squeezie](https://www.twitch.tv/squeezie), [Doigby](https://www.twitch.tv/doigby), [Gotaga](https://www.twitch.tv/gotaga), [Sardoche](https://www.twitch.tv/sardoche), [Ultia](https://www.twitch.tv/ultia), [Maghla](https://www.twitch.tv/maghla), [Henry Tran](https://www.twitch.tv/superhenrytran), [Deujna](https://www.twitch.tv/deujna), [ChowH1](https://www.twitch.tv/chowh1), [Rebeudeter](https://www.twitch.tv/rebeudeter), [Amine](https://www.twitch.tv/aminematue), [Domingo](https://www.twitch.tv/domingo), [LittleBigWhale](https://www.twitch.tv/littlebigwhale), [Ponce](https://www.twitch.tv/ponce), [Pape-San/Le Patron](https://www.twitch.tv/papesan), [FlashShad0w](https://www.twitch.tv/flashshad0w). Standard French. Intermediate to Advanced. Free access.
-- **Chess**: [Blitzstream](https://www.twitch.tv/blitzstream), [Blitzstream Facile](https://www.youtube.com/channel/UCho9uPByw7z1mOhTqEnfWUA), [Progresser aux Échecs avec Marc Quenehen](https://www.youtube.com/channel/UCwBtfnsZ-z5d0kCY1_szv-Q), [Massacrealouverture](https://youtube.com/c/massacreouverture). Standard French. Intermediate to Advanced. Free access.
-- **Esports**: [League of Legends](https://www.twitch.tv/otplol_). Standard French. Intermediate to Advanced. Free access.
+- [Solo Leveling](https://www.japscan.ws/manga/solo-leveling/): Manga tiếng Pháp.
 
-### Language Parents
-- [Tony et ses pensées](https://www.youtube.com/channel/UCmzwL-aR8UUpYiSzWk4IubA): Male, early 30s, Metropolitan France. Standard French. Intermediate. Free access.
-- [Corn8lius](https://www.youtube.com/channel/UCDw0RrG-mZVvBU6mtazmTbQ): Male, early 30s, Metropolitan France. Standard French. Intermediate. Free access.
-- [La Carologie](https://www.youtube.com/channel/UCxQcOTjUpeI8Goo6UXJ2NgA): Female, mid-20s, Metropolitan France (student in Geneva). Standard French. Intermediate. Free access.
-- **Tip**: To check if a YouTube channel has enough content, go to the channel, click “PLAY ALL” next to Uploads, copy the playlist URL, and paste it into [this site](https://ytplaylist-len.herokuapp.com/) to see total video duration.
+## 📖 Graded Readers / Sách dễ
 
-### Miscellaneous
-- [La Minute Belge](https://www.youtube.com/channel/UCV7LqtLm0-NW4x1W5AUu-QA): Short clips explaining Belgian French words. Belgian French. Intermediate. Free access.
-- [Big List of Transcribed Content](https://www.reddit.com/r/French/comments/fk3624/the_big_list_of_transcribed_podcasts_and/): Human-transcribed YouTube channels and podcasts. Standard French. All levels. Free access.
+- [Mondes en VF](https://www.mondesenvf.fr/): Truyện ngắn + MP3.
+- [Le Français Par La Méthode Nature](https://archive.org/details/jensen-arthur-le-francais-par-la-methode-nature): Học hoàn toàn bằng tiếng Pháp.
+- [Initiation à la Littérature Française](https://books-library.net/files/download-pdf-ebooks.org-02211429Ki7G6.pdf): Tuyển tập có chú giải.
+
+## 📘 Tiểu thuyết
+
+- [Phobos](https://www.goodreads.com/book/show/39862087-ascension): Sci-fi, trung cấp.
+- [Sauveur & Fils](https://www.goodreads.com/en/book/show/29506032-sauveur-fils-saison-1): Gia đình + tâm lý.
+- [Bonjour Tristesse](https://www.amazon.com/Bonjour-tristesse-Fran%C3%A7oise-SAGAN/dp/2266195581): Trưởng thành.
+- [La Quête d’Ewilan](https://www.amazon.fr/Lint%C3%A9grale-Qu%C3%AAte-dEwilan-Pierre-Bottero-ebook/dp/B013BAWPRQ): Fantasy.
+
+## 🎮 Game
+
+- [Alba - A Wildlife Adventure](https://store.steampowered.com/app/1337010/Alba_A_Wildlife_Adventure/): Hội thoại chữ, sơ–trung cấp.
+- [Number Listening Practice](https://langpractice.com/french/): Luyện số đếm.
+
+## 📺 Twitch / YouTube (Giải trí)
+
+- [Locklear](https://www.twitch.tv/locklear): Stream variety.
+- [Squeezie](https://www.twitch.tv/squeezie): Variety.
+- [Kameto](https://www.twitch.tv/kamet0): Esports.
+- [Blitzstream](https://www.twitch.tv/blitzstream): Cờ vua.
+
+## 🗣️ YouTube cá nhân (Language Parents)
+
+- [Tony et ses pensées](https://www.youtube.com/channel/UCmzwL-aR8UUpYiSzWk4IubA): Độc thoại.
+- [Corn8lius](https://www.youtube.com/channel/UCDw0RrG-mZVvBU6mtazmTbQ): Trò chuyện.
+- [La Carologie](https://www.youtube.com/channel/UCxQcOTjUpeI8Goo6UXJ2NgA): Đời sống sinh viên.
+
+## 🧩 Khác
+
+- [La Minute Belge](https://www.youtube.com/channel/UCV7LqtLm0-NW4x1W5AUu-QA): Từ vựng tiếng Pháp Bỉ.
+- [Big List of Transcribed Content](https://www.reddit.com/r/French/comments/fk3624/the_big_list_of_transcribed_podcasts_and/): Video & podcast có transcript.

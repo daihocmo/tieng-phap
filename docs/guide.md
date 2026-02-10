@@ -1,195 +1,247 @@
-# Tự học Tiếng Pháp
+# Một hướng dẫn học Tiếng Pháp
 
-Học tiếng Pháp để đọc tiểu thuyết Victor Hugo hay Alexander Dumas, để tiếp cận nền văn hóa, nghệ thuật đặc sắc hoặc giao tiếp với người Pháp (cũng như người _nói Tiếng Pháp_ trên 29 quốc gia khác nhau) đều đòi hỏi những kỹ năng nền tảng giống nhau: khả năng hiểu tiếng Pháp tự nhiên thông qua việc đọc và nghe. Hướng dẫn học này được viết để cung cấp cho bạn một cái nhìn tổng quan về cách bắt đầu xây dựng các kĩ năng trên. Phần còn lại phụ thuộc vào bạn.
+*Nếu bạn không cần đọc phần mở đầu, hãy đến luôn phần **[Cách để học Tiếng Pháp](#21-cach-hoc-tieng-phap)**.*
 
-Bạn sẽ cần thời gian. _Rất nhiều thời gian_. Không thể học một ngôn ngữ chỉ trong một tháng, ai nói vậy thì chỉ nói vớ vẩn thôi. Điều quan trọng là phải học **liên tục mỗi ngày**, hoặc ít nhất là gần như vậy. Bạn cần xây dựng thói quen tiếp xúc thường xuyên với ngôn ngữ, đó là cách duy nhất để tiến bộ thật sự. Có nhiều ước tính ngoài kia về tổng số giờ cần để học một ngôn ngữ. Khi mình dành nhiều thời gian hơn mỗi ngày, mình tiến bộ nhanh hơn – đơn giản vậy thôi.
+## 1.1 Nhiều người học ngoại ngữ "thất bại" do đâu?
 
-Bạn nên (_cần_) đọc [Hướng dẫn tự học ngoại ngữ đầy đủ này](https://daihocmo.github.io/ngoai-ngu/orca/giai-doan-0/) để hiểu về phương pháp học ngoại ngữ được trình bày trong trang này
+Có một số lượng không nhỏ những người bắt đầu học Tiếng Pháp để có thể trải nghiệm nội dung bằng Tiếng Pháp hoặc để có thể nói Tiếng Pháp trôi chảy và một số các mục tiêu khác. Dù vậy, không ít người sau nhiều năm học vẫn không thể đạt được mục tiêu ấy. Do việc học ngoại ngữ quá khó? Hay do chưa đủ chăm?
 
-## Hệ thống chữ viết
+Có lẽ vấn đề không phải nằm ở những người học ấy, mà là ở phương pháp. Trong việc học ngôn ngữ, phương pháp học của bạn tạo ra sự khác biệt rất lớn trong khả năng và tốc độ tiến bộ ngoại ngữ của bạn.
+
+Khó có thể đạt được những mục tiêu như vậy chỉ với các phương pháp học ngoại ngữ truyền thống. Nhiều người "thất bại" vì thiếu vào một phần quan trọng, **immersion**, trong quá trình học tập. **Immersion** để chỉ việc nghe hoặc đọc nội dung của người bản ngữ dành cho người bản ngữ. 
+
+Ví dụ: Xem phim Pháp không sử dụng phụ đề là một cách ta thực hiện immersion Tiếng Pháp.
+
+## 1.2 Vấn đề của phương pháp học truyền thống
+
+![study_wakaranai_boy](img/study_wakaranai_boy.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
+
+Học ngoại ngữ theo phương pháp "truyền thống" thì thường sẽ kiểu như này:
+
+-   Học các câu cơ bản như câu chào hỏi, tự giới thiệu.
+-   Học cấu trúc ngữ pháp và từ vựng cơ bản.
+-   Nghĩ ra câu bằng cách trò chuyện với giáo viên hoặc bạn học hoặc bằng cách viết.
+-   Dịch các câu ví dụ từ Tiếng Việt sang ngôn ngữ đích (TL - Target Language) và ngược lại.
+-   Tra cứu thêm tài liệu về cấu trúc ngữ pháp và từ vựng trong sách giáo khoa hoặc xem video YouTube
+-   Thực hành hội thoại sử dụng kiến thức đã học.
+-   Tích lũy thêm nhiều cấu trúc từ vựng và ngữ pháp và lấy số lượng làm thước đo cho sự tiến bộ của bản thân
+- Và cuối cùng là đến giai đoạn cuối, chuyển đến sống hoặc đi du lịch Nhật Bản với hy vọng có cơ hội rèn luyện kỹ năng của mình.
+
+Bản thân việc học như này hoàn toàn ổn, nhưng chưa đủ để giúp bạn đạt được trình độ cao. Vấn đề là những người học thuộc nhóm trên không tương tác với ngôn ngữ thực tế.
+
+Lấy bơi lội làm ví dụ: Bạn không thể chỉ mãi ở hồ dành cho trẻ con, đeo phao và hy vọng rằng mình sẽ thành thạo kỹ thuật bơi trong cái hồ đó trước khi bước sang hồ lớn. Làm vậy sẽ không bao giờ khiến bạn trở thành một người biết bơi thực thụ. Cũng giống như bạn không thể trở thành vận động viên bơi lội chỉ bằng cách học lý thuyết và luyện động tác trên cạn, mà không bao giờ nhảy xuống nước thật.
+
+Một ví dụ dễ liên hệ hơn: game đối kháng. Bạn sẽ không thể chơi giỏi chỉ bằng cách luyện với máy hoặc tập trong chế độ huấn luyện cả ngày. Muốn giỏi, bạn phải bước vào trận đấu thực sự – chơi với người thật, chấp nhận rằng mình có thể thua tơi tả. Đó mới là “chơi thật”.
+
+<div style="border: 4px solid #333; padding: 10px; margin: 10px 0; border-radius: 10px; font-size: 30px; font-weight: bold; text-align: center;">
+  Điều quan trọng là: phải học cách bước tiếp
+</div>
+
+Người mới học thường mắc một cái bẫy là cố gắng học tài liệu cho đến khi hiểu hết mới thôi và không thực hiện immersion vì chưa cảm thấy thoải mái hay "sẵn sàng". Tuy nhiên, cần ngừng sử dụng tài liệu cho người mới học càng sớm càng tốt vì trên thực tế, bạn sẽ không bao giờ cảm thấy sẵn sàng nếu không bắt đầu tiếp xúc với ngôn ngữ thực tế và làm quen với nó.
+
+Chủ nghĩa cầu toàn có thể là con dao hai lưỡi trong việc học ngôn ngữ. Tốn quá nhiều thời gian và công sức mà không đạt được nhiều kết quả, cố ghi nhớ từng chi tiết nhỏ nhất của những thứ không thực sự quan trọng trong cả quá trình học dài đấy.
+
+Học một ngôn ngữ giống như leo núi vậy. Bạn có thể cố gắng leo mà không dùng đến bất kỳ công cụ hỗ trợ nào – và dù sẽ rất vất vả, nếu kiên trì, bạn vẫn có thể đến đích. Việc học theo cách truyền thống giống như đang bện một sợi dây thừng để việc leo núi dễ hơn. Nhưng bạn không thể chỉ ngồi đó bện dây mãi – đến một lúc nào đó, bạn phải bắt đầu leo. Dù bạn có làm ra bao nhiêu dây đi nữa, thì việc leo núi vẫn sẽ khó khăn và tốn thời gian. Không có đường tắt – bạn phải thực sự bắt tay vào *làm*.
+
+## 1.3 Quy mô của ngôn ngữ
+
+Ngôn ngữ thực sự quá rộng lớn. Có quá nhiều thứ vượt xa ranh giới trong một lớp học hoặc phương pháp dạy theo kiểu "x có nghĩa là y" (A is B) hoặc "x thực hiện hành động y" (A does B). Để thành thạo một ngôn ngữ ở cấp độ cao cần một lượng lớn "đọc" và "nghe" nội dung ngôn ngữ đích.
+
+Và thường thì rất khó để hiểu tại sao họ lại dùng *câu đó* trong *tình huống kia*, hay *từ này* thay vì *từ kia*. Điều đó tạo nên một rào cản lớn cho người học – bởi vì bạn không thể chỉ học mỗi ngữ pháp và từ vựng mà mong nói được như người bản xứ.
+
+Nếu không có những trải nghiệm cần thiết, việc cố gắng tự tạo câu ở ngôn ngữ mục tiêu thường khiến cho cách diễn đạt trở lên thiếu tự nhiên hoặc khó hiểu. Thêm nữa, việc không hiểu hoặc chưa hiểu rõ cách người bản ngữ sử dụng ngôn ngữ của họ khiến việc hiểu họ trở nên khó khăn hơn rất nhiều do không quen với cách diễn đạt bên ngoài phạm vi của tài liệu học tập.
+
+Đây là lý do tại sao trong việc học ngoại ngữ cần có **"immersion" - đọc và nghe những gì người bản ngữ viết và nói.**
+
+Học ngôn ngữ là một quá trình ghi nhớ các pattern (mẫu) trong vô thức thông qua comprehensible input. Điều này có nghĩa là, khi bạn hiểu điều gì đó (comprehensible) trong quá trình immersion, bộ não của bạn sẽ vô thức lưu mẫu (pattern) đó vào trong đầu để có thể sử dụng trong tương lai. Nó sẽ kiểu như: "Ê mày, có mẫu số 234 được sử dụng với mẫu số 82 và mẫu số 10 kìa".
+
+Tại sao lại không nói về "biết ngữ pháp" hay "nhớ từ vựng"? Bởi đây không phải là cách xử lý ngôn ngữ tự nhiên. Một số người không phải là người bản ngữ Tiếng Pháp và có thể là đã học ngữ pháp Tiếng Pháp từ trước, nhưng họ sẽ chẳng mấy khi nghĩ về các cấu trúc ngữ pháp khi tương tác với Tiếng Pháp hàng ngày.
+
+## 1.4 Chấp nhận cảm giác khó chịu và mù mờ
+
+![moyamoya](img/moyamoya_woman.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
+
+Trong việc học ngôn ngữ hay trong bất cứ lĩnh vực nào đòi hỏi kỹ năng, bạn sẽ luôn gặp khó khăn trong một thời gian dài cho đến khi bạn tiến bộ hơn. Như đã nói ở trên, nhiều người học (mình cũng đã từng như vậy) cứ cố gắng học thật tốt một thứ gì đó trước khi sử dụng chúng trong thực tế.
+
+Ví dụ, một người học khi cố học một cấu trúc ngữ pháp nào đó quá lâu và không chuyển sang những nội dung khác mà họ nên học.
+
+<div style="text-align: center; font-weight:bold">
+<h3>↑ Đây là điều chúng ta cần tránh</h3 >Đây là lý do tại sao trong việc học ngoại ngữ cần có **"immersion" - đọc và nghe những gì người bản ngữ viết và nói.**
+
+Học ngôn ngữ là một quá trình ghi nhớ các pattern (mẫu) trong vô thức thông qua comprehensible input. Điều này có nghĩa là, khi bạn hiểu điều gì đó (comprehensible) trong quá trình immersion, bộ não của bạn sẽ vô thức lưu mẫu (pattern) đó vào trong đầu để có thể sử dụng trong tương lai. Nó sẽ kiểu như: "Ê mày, có mẫu số 234 được sử dụng với mẫu số 82 và  </div>
+
+Không dễ dàng gì để có thể hiểu hết quyển tiểu thuyết hay một bộ phim ngay lần đầu. Cần tới lần thứ ba, thứ tư, thứ năm và thậm chí thứ sáu để có thể học được điều gì đó.
+
+## 1.5 "Immersion" là cái gì?
+
+Immersion là khi bạn tương tác với nội dung tự nhiên bằng ngôn ngữ mục tiêu (ở đây là Tiếng Pháp). Là nội dung KHÔNG hề được làm hoặc chọn lọc kỹ càng cho người học mà được làm bởi chính người bản ngữ cho người bản ngữ.
+
+Việc đọc hướng dẫn này (hướng dẫn gốc được viết bằng Tiếng Pháp) ngay bây giờ sẽ được tính là bạn đang "thực hành immersion Tiếng Pháp", bởi vì hướng dẫn này không hề được đơn giản hóa hay giúp cho người học Tiếng Pháp. Nó được viết cho những người nói Tiếng Pháp ở mức độ bản ngữ/thành thạo. Vì vậy, khi bạn nghe hoặc đọc nội dung Tiếng Pháp mà người Nhật cũng thường sử dụng, bạn đang thực hành immersion.
+
+Theo thuật ngữ thì được gọi là *input*, nhưng mình thích dùng *immersion* hơn.
+
+## 1.6 Cách tiếp cận "từ trên xuống" (top-down) trong việc học ngôn ngữ
+
+Khi học một ngôn ngữ, việc không hiểu tất cả nội dung của ngôn ngữ đó là chuyện hết sức bình thường.
+
+Điều này hoàn toàn khác so với cách học ở trường lớp, nơi chủ nghĩa hoàn hảo được tuyên dương dựa trên thành tích học và được xếp loại thông qua các tiêu chí hoặc các kỳ thi. 
+
+Những người học ở trên dễ cảm thấy nản vì không hiểu được tất cả hoặc phần nhiều khi tương tác với ngôn ngữ thực tế, cho dù đó là một bộ phim truyền hình, hay một quyển sách hoặc thậm chí chỉ là một cuộc hội thoại bình thường với người bản ngữ. Việc tiếp tục như vậy khi bạn hiểu rất ít nghe có vẻ không hợp lí, nhưng như đã nói ở các phần trước, học một ngôn ngữ cũng giống như nhảy vào hố sâu bất tận vậy.
+
+Điều khiến việc học ngôn ngữ trở nên quá đỗi khác biệt so với các môn học ở trường là nó dựa trên việc sử dụng ngôn ngữ một cách tự nhiên và thực tế, thứ mà tài liệu học tập không thể truyền tải được. Vì vậy, cách duy nhất để làm quen với mọi thứ là chấp nhận sự mù mờ (low comprehension - độ hiểu thấp), vì càng tương tác với ngôn ngữ nhiều thì sẽ càng tiến bộ hơn.
+
+Tất nhiên, chúng ta không *chỉ* thực hiện immersion mà không làm gì khác. Cũng cần học những thứ như ngữ pháp và từ vựng. Đồng thời, sử dụng từ điển để học từ trong quá trình immersion.
+
+## 2.1 Cách học Tiếng Pháp
+
+### Quá trình học tập ban đầu
+
+Quá trình học tập mở đầu bao gồm bao gồm:
+
+-   Làm quen với Tiếng Pháp.
+-   Học từ vựng cơ bản sử dụng *Anki*.
+-   Học ngữ pháp thông qua một danh sách phát trên *YouTube*.
+-   Bắt đầu immerse với comprehensible input cường độ cao. Đây là nhiệm vụ mà bạn cần dành phần lớn thời gian.
+
+### Bảng chữ cái
 
 ![](img/alphabet.png)
 
 Hay: _Học bảng chữ cái, các nguyên âm, phụ âm và cấu trúc cơ bản_
 
-Bước tiếp theo trong lộ trình học tiếng Pháp là học bảng chữ cái, các nguyên âm, phụ âm. Đây là yếu tố quan trọng để xây dựng nền tảng ngôn ngữ vững chắc. Dưới đây là những điểm cần lưu ý:
+Ở giai đoạn này, mục tiêu của bạn **không phải là phát âm chuẩn như người Pháp**, mà là làm quen với cách tiếng Pháp được đọc và nghe trong thực tế.
 
-- Nguyên âm: Học cách phát âm các nguyên âm trong tiếng Pháp như /a/, /e/, /i/, /o/, /u/ và cách sử dụng chúng trong từ vựng và câu. Ví dụ: "ami" (bạn), "merci" (cảm ơn), "un" (một).
-- Phụ âm: Học cách phát âm các phụ âm như /p/, /t/, /k/, /m/, /n/ và cách sử dụng chúng trong từ vựng và câu. Ví dụ: "parler" (nói), "table" (bàn), "cadeau" (quà).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-7woR4auqso?si=18TtgqX9sDeXeEpe&amp;start=18" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Từ vựng
+*học qua bảng chữ cái tiếng pháp (học cách từng chữ cái được phát âm trong tiếng phát, thay vì phát âm theo Tiếng Việt)*
 
-Mình nghĩ rằng việc học từ vựng quan trọng hơn ngữ pháp, vì không có ích gì khi học ngữ pháp trung cấp hay nâng cao nếu bạn còn không hiểu những từ xuất hiện trong các câu đơn giản.
+Bạn nên tập trung vào những đặc điểm khiến tiếng Pháp trở nên “lạ tai” với người mới học. Đó là các nguyên âm mũi như *un, on, an, in*, phụ âm **r** đặc trưng của tiếng Pháp, hiện tượng nhiều chữ cái cuối từ không được đọc, và việc nối âm (*liaison*) khi nói nhanh. Bạn không cần hiểu hay dùng liaison cho đúng ngay từ đầu, chỉ cần biết rằng nó tồn tại và không bị rối khi nghe.
 
-Chúng ta sẽ sử dụng Anki. Ai cũng khuyên dùng, và có lý do cả. Nhiều sinh viên y khoa dùng nó để vượt qua trường Y, và đó cũng là nền tảng học tiếng Pháp của mình. Nó tuyệt vời. Bản chất chỉ là flashcards (thẻ ghi nhớ) được lặp lại theo một lịch trình tùy theo mức độ khó đối với bạn. Đây là cách chính giúp mình ghi nhớ những gì đã học, rất hữu ích cho từ vựng, chia động từ, và ngữ pháp. Nói chung là toàn bộ những thứ quan trọng nhất để học ngôn ngữ.
+### IPA
 
-Mình dùng 3 bộ thẻ: một bộ tự tạo, một bộ [từ vựng](https://ankiweb.net/shared/info/893324022), và một bộ [câu tiếng Pháp](https://ankiweb.net/shared/info/1089240419). Nhiều người khuyên không nên dùng thẻ của người khác, chỉ nên tự làm. Nhưng mình không đồng ý. Mình học được rất nhiều từ vựng từ các bộ thẻ có sẵn và đó là cách hay để củng cố các cụm từ thông dụng.
+IPA (*International Phonetic Alphabet*) là một hệ thống ký hiệu dùng để ghi lại **cách phát âm thực tế** của một từ nhất định. Hầu hết các từ điển tiếng Pháp (trên giấy hoặc trực tuyến) đều sử dụng IPA để chỉ cách phát âm của từ. Đây là một ví dụ:
 
-Điều quan trọng là đặt số thẻ học mỗi ngày ở mức hợp lý. Với mình, tổng cộng khoảng 30 thẻ mới mỗi ngày từ tất cả các bộ là vừa đủ. Ban đầu tưởng là ít, nhưng khi số thẻ tích lũy ngày càng nhiều, con số này lại rất ổn.
+![](img/ipa.png)
 
-### Sau khi xong bộ thẻ từ vựng cơ bản
+Ở giai đoạn này, bạn *không cần học thuộc toàn bộ bảng IPA*. Mục tiêu của bạn chỉ là:
 
-Bạn có thể tạo một bộ thẻ mới và ghi lại những câu hoặc cụm từ mới mà bạn học được thông qua quá trình immersion.
+* không đoán mò khi gặp từ mới.
+* tránh việc “đọc theo tiếng Việt” (hoặc thậm chí là Tiếng Pháp). Bạn có thể xem video sau của Casually Explained để tìm hiểu thêm:
 
-Đọc [Hướng dẫn đào câu (Sentence Mining) cơ bản](https://daihocmo.github.io/ngoai-ngu/sentence-mining/).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a69toGGjoO0?si=iO2QH8rYTpqRUfoC&amp;start=17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Quá trình này còn được gọi là xây dựng một "mining deck". Mining deck là một bộ thẻ từ vựng do chính bạn xây dựng, gồm những từ bạn chưa biết mà bạn gặp khi đọc. Tiện ích trình duyệt (extension) [Yomitan](https://yomitan.wiki) giúp đơn giản hóa quá trình này chỉ với một cú nhấp chuột: bạn chỉ cần di chuột lên một từ và bấm nút + trong cửa sổ bật lên để tạo thẻ trong Anki.
+(Nhưng tất nhiên cần lưu ý là: Khác với Tiếng Pháp - một ngôn ngữ có cách phát âm cực kì *bất nguyên tắc*, Tiếng Pháp có chính tả khá nhất quán theo quy tắc, nhưng có nhiều âm không tồn tại trong tiếng Việt (nguyên âm mũi, /ʁ/, /y/, /ø/, /œ/, liaison). Vậy nên, **không học cũng được**, nhưng nên học cho biết :>)
 
-## Ngữ pháp
+Nói cách khác: IPA chỉ là *công cụ* để tham khảo. *IPA không thay thế việc nghe, nó chỉ giúp bạn không hiểu sai những gì bạn nghe*. Quá trình cơ bản là: Khi gặp từ mới, hãy *nghe audio trước* nếu có. Sau đó mới nhìn IPA để xác nhận xem âm mình vừa nghe.
 
-Không ai thích ngữ pháp. Nó chán, nhưng cần thiết. Mình chọn [Ngữ pháp tiếng Pháp - Trình độ A1 của Tiếng Pháp DelfA1](https://www.youtube.com/playlist?list=PLfQUO2gc3i2MjUt6TH3n_WWaKfVeH0J0U). Ngữ pháp tiếng Pháp phức tạp đến mức ngớ ngẩn, nên bạn sẽ chẳng bao giờ làm đúng hết, nhưng học chút thôi cũng khiến bạn nghe đỡ ngố hơn nhiều!
+## 2.2 Từ vựng
 
-## Nội dung dễ hiểu (Comprehensible Input)
+Ở giai đoạn đầu, từ vựng là nền tảng quan trọng nhất. Ngữ pháp sẽ không giúp được nhiều nếu bạn không hiểu các từ xuất hiện trong câu. Vì vậy, trọng tâm của phần này là xây dựng một vốn từ đủ để bạn bắt đầu nhận diện ngôn ngữ khi đọc và nghe.
 
-Đây là loại input mà bạn **hiểu được phần lớn nội dung**, dù vẫn có một vài từ hoặc cấu trúc bạn chưa biết. Nhờ ngữ cảnh, hình ảnh, hoặc kiến thức sẵn có, bạn vẫn đoán được ý chung của câu hoặc đoạn văn. Theo thời gian, não bộ sẽ tự động liên kết những “mảnh ghép còn thiếu” với ý nghĩa phù hợp — mà không cần phải dịch từng từ.
+Công cụ chính được sử dụng là **Anki**, một hệ thống flashcard lặp lại ngắt quãng giúp bạn ghi nhớ từ vựng và câu cơ bản theo thời gian. Tuy nhiên, cần nhấn mạnh rõ một điều: Anki chỉ là **công cụ hỗ trợ trí nhớ**, không phải là toàn bộ việc học tiếng Pháp. Nếu bạn chỉ học Anki mà không tiếp xúc với tiếng Pháp thật, thì bạn mới chỉ tiến bộ trong việc ôn tập thẻ Anki thôi, chứ khả năng Tiếng Pháp vẫn chưa được cải thiện nhiều.
 
-Nói cách khác: bạn không cần hiểu 100% mọi thứ. Chỉ cần hiểu đủ để theo kịp nội dung.
+Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là: [**Pháp1K**]() (Kéo xuống là thấy nút Download).
 
-Đây chính là lý do Comprehensible Input rất hiệu quả: bạn tiếp xúc với ngôn ngữ trong ngữ cảnh thực tế, và từ vựng + cấu trúc mới được tiếp thu một cách tự nhiên.
+## 2.3 Ngữ pháp
 
-Đây là một số ví dụ:
+Việc học ngữ pháp tương đối quan trọng trong việc học Tiếng Pháp. Có rất nhiều tài liệu ngữ pháp ngoài kia, tốt cũng có mà không tốt cũng có. Chỉ có một nguồn học ngữ pháp là không đủ cho tất cả mọi người.
 
-_Ví dụ đầu tiên:_
+Dưới đây là một số hướng dẫn được xếp hạng dựa trên mức độ gợi ý cho những người mới bắt đầu. Không cần phải học từng hướng dẫn một, chỉ cần chọn một hướng dẫn mà bạn thấy phù hợp với bản thân:
 
-> Je vois un chat.
-> Le chat est noir.
+- [Ngữ pháp tiếng Pháp – Trình độ A1 (Delf A1)](https://www.youtube.com/playlist?list=PLfQUO2gc3i2MjUt6TH3n_WWaKfVeH0J0U)
 
-Nếu bạn đã biết:
+Đây là thời điểm tốt nhất để bắt đầu Immersion khi bạn đã học được một số cấu trúc ngữ pháp mới. Xem cách áp dụng ngữ pháp đã học vào thực tế sẽ giúp hiểu rõ hơn về chúng.
 
-- je = tôi
-- vois = thấy
-- un = một
-- chat = mèo
-- est = là
-- noir = đen
+## 2.4 Immersion cho tân thủ
 
-Thì bạn có thể hiểu toàn bộ câu, ngay cả khi chưa từng học chính thức cấu trúc này.
+Ở phần 1.3, mình đã nói về [comprehensible input](comprehensible-input.md). Đây là input mà bạn có thể hiểu được, cứ mỗi vài câu lại có một số mảnh ghép bị thiếu. Với kiểu immersion này, trong tiềm thức bạn sẽ tự điền thêm vào những phần bạn thấy chưa hiểu bằng cách đoán ý dựa trên ngữ cảnh, đó là lý do tại sao kiểu input này lại vô cùng hữu ích cho việc học ngôn ngữ.
 
-_Ví dụ thứ 2:_
+Nhưng có một vấn đề. Bạn sẽ làm gì nếu không có nguồn comprehensible input? Là người mới bắt đầu, không có nội dung nào là dễ cả. Trên thực tế, đây là lý do tại sao mọi người thường lạc lối và bắt đầu đọc từ tài liệu này sang tài liệu khác. Mặc dù incomprehensible input cũng có những tác dụng nhất định và hỗ trợ cho việc học, nhưng sẽ rất khó để có thể vượt qua rào cản ban đầu ấy.
 
-> Je vois un chat.
-> Le chat mange.
+Việc không hiểu được nội dung mình muốn tiêu thụ khá khó chịu, trừ khi bạn có một hướng tư duy cụ thể về nó - cảm thấy vui khi biết rằng mình đang tiến bộ dần dần kể cả khi khó có thể thấy một cách rõ rệt. Tuy nhiên, để duy trì tư duy này mọi lúc không hề dễ dàng, không nên dựa vào nó để làm động lực thúc đẩy cho sự kiên trì trong học tập - chìa khóa số một để thành thạo bất kỳ kỹ năng nào.
 
-Giả sử bạn chưa biết **mange**. Nhưng thử nhìn vào hình xem, bạn có đoán được nghĩa của từ _mange_ không (_Con mèo đang làm gì trong hình_)?
+Vậy làm cách nào để không phải cảm thấy áp lực khi phải tiêu thụ các nội dung khó hiểu?
 
-![](img/meo-dang-an.png){: style="display: block; margin: 0 auto; max-width:50%; height:auto;" }
+Chọn những gì bạn thích. Media thực sự khá giải trí vì nhiều lý do khác nhau khác ngoài việc học ngôn ngữ. Bằng cách chọn Media có tính giải trí, thư giãn và có giá trị cao bất kể cấp độ ngôn ngữ nào, chúng ta có thể duy trì liên kết của bản thân với ngôn ngữ và có động lực để tiếp tục immerse. Dần dần, khi trải nghiệm ngôn ngữ phát triển, chúng ta sẽ thấy mình hiểu nhiều hơn và mục tiêu từng tưởng chừng như không thể đó là tìm comprehensible input giờ đây đã trở thành một điều hiển nhiên, với mục tiêu mới là tiếp tục tìm những nội dung khó hơn để thúc đẩy bản thân tiếp tục học. 
 
-→ _mange_ = ăn
+## 2.5 Cách immerse
 
-Hết ví dụ! Từ đó chúng ta có thể đi đến một số điểm quan trọng của Comprehensible Input:
+### Đọc & Từ điển
 
-- Không quá khó
-- Không toàn từ mới
-- Có ngữ cảnh (hình ảnh, hành động, câu trước đó)
-- Có lặp lại
+Để giúp cho việc đọc Tiếng Pháp trở lên dễ dàng hơn thì có thể Yomitan trên trình duyệt. Đọc [hướng dẫn tải xuống](yomitan.md) 
 
-Vậy thì bây giờ tìm comprehensible input ở đâu? Là người mới học tiếng Pháp, không có nội dung nào là dễ (_comprehensible_) cả. Thì câu trả lời đơn giản là "cứ xem đi", cũng như là học từ vựng và ngữ pháp. Càng học nhiều và càng tiếp nhận nhiều input thì nội dung sẽ càng trở nên dễ hiểu (_comprehensible_) hơn.
+### Lựa chọn nội dung Immersion
 
-**Bonus**: đây là những tài nguyên cung cấp **đầu vào tiếng Pháp dễ hiểu (Comprehensible Input)** mà mình tổng hợp được:
+Chọn bất cứ nội dung gì bạn muốn. Nó có thể là phim, drama, tiểu thuyết, game hoặc YouTube. Chỉ cần bạn thích bất cứ thứ gì bạn chọn để immerse là được.
 
-[Coffee Break French](https://open.spotify.com/show/6YqgG1UezfW9khCvLh8rvw?si=6hnvHXUPT0-pnJq1SrGreA)
-Một podcast đưa bạn học từ con số 0. Bạn nên dùng kèm một cuốn sổ tay và Google Translate để ghi chú lại.
+### Cách để thực hiện Listening Immersion 
 
-Pimsleur (link miễn phí không còn hoạt động)
-Một podcast đưa bạn học từ đầu, chỉ cần nghe và lặp lại.
+Chúng ta không muốn suy nghĩ quá nhiều về mọi thứ khi đang nghe. Thả mình theo dòng chảy (flow) cho đến khi bạn nghe thấy thứ mà bạn muốn tra.
 
-[French Comprehensible Input (YouTuber)](https://youtube.com/c/FrenchComprehensibleInput)
-Một YouTuber rất tốt, gắn nhãn toàn bộ nội dung từ A1 đến C2.
+Có một số cấp độ nhất định khi nghe. Cấp độ một sẽ là nghe free-flow, nghe theo flow mà không tra từ. Cấp độ hai sẽ là tra những phần bạn muốn tra nhưng vẫn để bài nghe chạy. Cấp độ ba sẽ dừng ở mỗi từ chưa biết và tra.
 
-[Apprendre le français québécois (YouTuber người Québec)](https://youtube.com/channel/UCJFoGNSmZd6WWuz1QLWkNlw)
-Một YouTuber người Québec, gắn nhãn video theo trình độ (beginner, intermediate, v.v.). Có thể bạn cần ở mức A2–B1 để hiểu tốt một số video “beginner” của cô ấy.
+Ở giai đoạn sơ cấp đến trung cấp, kỹ năng nghe hoàn toàn nằm ở cấp độ một và cấp độ hai. Đừng suy nghĩ quá nhiều về điều đó và hãy để ý tất cả những cơ hội nhỏ mà bạn bắt được trong khi nghe.
 
-[alice ayel (YouTuber)](https://youtube.com/c/aliceayel)
-YouTuber có playlist kể chuyện bằng tiếng Pháp theo hướng comprehensible input.
+#### Nghe "chủ động" và "thụ động"
 
-[French In Action](https://www.learner.org/series/french-in-action/orientation/)
-Một loạt video cũ, được thiết kế để giúp học tiếng Pháp thông qua hình ảnh và ngữ cảnh. Bạn có thể cần trình độ A2 để hiểu tốt ngay từ đầu.
+Nghe chủ động là khi bạn tập trung hoàn toàn vào việc nghe của mình. Bạn đang thực hiện immersion tất cả các khía cạnh của nó như là nhìn vào màn hình chẳng hạn. Đây là kiểu nghe có lợi nhất.
 
-[Duolingo Stories](https://www.duolingo.com/stories)
-Những câu chuyện ngắn, mất khoảng 1–2 phút để hoàn thành. Nội dung hơi “sến”, nhưng khá vui và tạo cảm giác thành tựu vì bạn có thể hiểu trọn vẹn cả một cuộc hội thoại.
+Nghe "thụ động" là khi bạn làm việc khác và nghe ở chế độ nền. Nếu bạn có lối sống bận rộn thì có thể tranh thủ từng khoảnh khắc để nghe. Bạn nên thực hành thực hiện immersion "thụ động" để lấp đầy những khoảng trống - những lúc mà bạn thường không học Tiếng Pháp.
 
-[Language Transfer](https://www.languagetransfer.org/free-courses-1#french)
-Nhiều người nói đây là lựa chọn thay thế cho Pimsleur, nhưng tôi không nghĩ vậy. Nó giống những bài học tiếng Pháp ngắn (6–12 phút), dạy các từ và động từ quan trọng. Giống Coffee Break French nhưng theo phong cách thoải mái hơn.
+### Làm thế nào để thực hành immersion với việc đọc
 
-**Các tài nguyên được người khác đề xuất trong phần bình luận:**
-[InnerFrench](https://innerfrench.com/)
-[Easy French](https://www.youtube.com/channel/UCoUWq2QawqdC3-nRXKk-JUw)
-[Learn French with Alexa](https://youtube.com/user/learnfrenchwithalexa)
-[Extra French](https://youtu.be/YGE6ymTCHAQ)
-[French Hub Discord](https://discord.com/invite/yEZTXxg)
-[Little Talk in Slow French](https://open.spotify.com/show/04xgaUm233iT1Th8hWGDyN?si=pfkqC_7NQHOvdR-eK08BNA)
+Ngược lại khi nghe nghe, đọc là một cách tiếp cận đòi hỏi "phân tích" và cần nhiều thời gian. Bạn có thể dành bao nhiêu thời gian tùy thích để đọc câu và tra cứu từ. Vòng lặp quy trình về cơ bản là **đọc → tra từ → phản ứng (reaction) → đọc thêm → tra từ → (lặp lại)**. Đây chính là cách mà bạn sẽ xây dựng khả năng đọc của bản thân.
 
-> Mục tiêu của Comprehensible Input không phải là học thuộc từ vựng, mà là **hiểu thông điệp**. Khi bạn hiểu thông điệp, não bộ sẽ tự động xử lý và ghi nhớ ngôn ngữ.
->
-> -- _Chắc là của Stephen Krashen_
+### Tỷ lệ lý tưởng giữa nghe và đọc
 
-## Tiếp nhận ngoại ngữ (Immersion)
+Ở giai đoạn đầu, bạn nên theo tỷ lệ nghe và đọc là 7:3. Do nghe là hình thức tự nhiên nhất của ngôn ngữ, vì vậy mình tin rằng việc ưu tiên nó là điều cần thiết để khiến bộ não của bạn xử lý Tiếng Pháp một cách tự nhiên hơn.
 
-Immersion là khi bạn tương tác với nội dung _tự nhiên_ bằng Tiếng Pháp (hay Target Language - ngôn ngữ mục tiêu của bạn). Là nội dung KHÔNG hề được làm hoặc chọn lọc kỹ càng cho người học mà được làm bởi chính người bản ngữ cho người bản ngữ.
+Bạn có thể bắt đầu giảm thời lượng nghe xuống theo tỷ lệ đều 5:5 khi Tiếng Pháp của bạn đã tốt hơn.
 
-_Một số video về Immersion mà bạn có thể sẽ muốn xem:_
+## 2.6 Vòng lặp học tập của người mới bắt đầu
 
-[AJATT - Ngoại ngữ Phim và Game: Học từ con số 0, chi phí 0 đồng, không thua kém ai](https://www.youtube.com/watch?v=j0OotbfBAA0)
+### Cách làm sai
 
-[How to Learn a Language: INPUT (Why most methods don't work)](https://www.youtube.com/watch?v=J_EQDtpYSNM) -- What I've Learned
+!!! failure "Cách học sai"
+    Học Tiếng Pháp cơ bản, sau đó học TẤT CẢ 1000 từ trong bộ thẻ từ vựng, sau đó học TẤT CẢ ngữ pháp trước khi bạn thử immerse lần đầu tiên..
+ 
+Đây là một cách tiếp cận rất tệ. Cần thực hiện mỗi thứ một chút.
 
-### Podcasts
+### Cách làm đúng 
 
-Ai cũng thích nghe podcast khi đi lại. Đây là những cái mình nghe:
+Khi bạn vẫn đang học từ vựng cơ bản, bạn nên thử bằng xem thứ gì đó bằng Tiếng Pháp mà không có phụ đề để xây dựng tinh thần immersion. Nó có thể là bất cứ điều gì bạn thích và bạn không cần phải hiểu bất cứ điều gì.
 
-- Innerfrench – Rất chất lượng, được khuyên nhiều. Tốt cho A2–B1 thấp, nhưng sau đó sẽ quá dễ.
-- Duolingo French Podcast – Tốt cho A2–B1 thấp. Mình từng chê Duolingo, nhưng podcast này cũng khá ổn, chỉ hơi nhiều tiếng Anh.
-- Rocket French – A1–A2
-- Coffee Break French – A2–B1
-- Learn French By Podcast – A1–B1
-- RFI – Journal en français facile – B1–B2 – tin tức hằng ngày bằng tiếng Pháp dễ.
+Sau đó bạn nên học từ vựng và ngữ pháp cùng một lúc. Học 10 từ mới và 2 cấu trúc ngữ pháp mỗi ngày chẳng hạn? Và trong cùng ngày đó, hãy thực hiện immersion thêm một số các nội dung.
 
-Khi đạt B1, bạn sẽ rơi vào giai đoạn mà tài liệu cho người học thì quá dễ, còn tài liệu gốc thì quá khó. Mình gọi đây là “địa ngục trung cấp”. Để chuyển sang nội dung gốc dễ hơn, mình thấy podcast về thiên nhiên/sinh thái dễ hiểu hơn do cách nói chậm rãi kiểu _David Attenborough_. Một cái mình khuyên thử là _Sur Les Épaules De Darwin_.
+!!! question "Mình nên thực hành immersion bao lâu mỗi ngày?"
+    Mình khuyên bạn nên dành khoảng 1 giờ đến 2 giờ khi bạn mới bắt đầu thực hành immersion. Bạn hoàn toàn có thể dành nhiều thời gian hơn thế và bạn sẽ tiến bộ nhanh hơn khi thực hiện immersion nhiều hơn mỗi ngày.
 
-### Phim/Chương trình TV/Video
+## 3.1 Về nói và viết (Output)
 
-Có một tiện ích Chrome tuyệt vời tên là [Language Learning with Netflix](https://chrome.google.com/webstore/detail/language-learning-with-ne/hoombieeljmmljlkjmnheibnpciblicm?hl=en). Nó cho phép bạn xem Netflix với phụ đề song ngữ Anh–Pháp, và có thể làm mờ phụ đề dần dần. Rất nhiều tính năng hữu ích như tự dừng sau mỗi câu. Đây là công cụ cực quan trọng với mình. Ban đầu mình xem cả phụ đề Anh–Pháp, sau đó làm mờ phụ đề Anh, rồi cuối cùng làm mờ cả hai. Quan trọng là phải thoát khỏi việc chỉ đọc phụ đề. 😊
+Nhiều người thường có quan niệm sai lầm rằng việc tập nói nhiều sẽ giúp cách cải thiện khả năng ngôn ngữ, nhưng thực tế không phải vậy, vì input mà chúng ta có được từ việc nghe và thấy người bản ngữ sử dụng ngôn ngữ mới thực sự hữu ích. Mặc dù output (đầu ra, bao gồm nói và viết) không trực tiếp cải thiện trình độ ngôn ngữ của bạn, nhưng việc luyện tập output vẫn tương đối quan trọng, cho dù là nhắn tin hay tập nói, bởi vì input và output luôn song hành với nhau. Việc output một cách chủ động sẽ buộc não bạn phải kiểm tra xem mình thực sự hiểu đúng những gì đã nghe hay chưa — và rồi bạn sẽ bắt đầu vô thức tìm cơ hội để áp dụng những gì đã nghe được vào thực tế.
 
-Một số series Netflix mình xem/khuyên:
+Bạn nên nạp input thường xuyên song song với việc output thường xuyên.
 
-- Au Service de la France
-- Marseille
-- H
-- Appelez mon agent
-- Dérapages
+Trái lại với những gì mà nhiều phương pháp học tập dựa trên immersion nói, mình không tin rằng việc không thực hiện "output" của bạn cho đến khi bạn thực sự giỏi là một điều tốt vì những lý do kiểu như "nói sai sẽ ảnh hưởng xấu đến Tiếng Pháp của mình". Điều này khiến bạn bỏ lỡ rất nhiều cơ hội để tiếp thu những thứ sẽ sử dụng trong việc output của mình sớm hơn và khiến bạn mang trong mình chủ nghĩa hoàn hảo độc hại và trở nên quá bảo vệ Tiếng Pháp của bản thân.
 
-Rồi đến lúc mình xem bất cứ thứ gì bằng tiếng Pháp, kể cả “trash”:
+## 3.2 Phát âm
 
-- Le cercle
-- Plan Coeur
-- Tout part en fumée
+Nghe nhiều hơn để có một phát âm tự nhiên và giống người nói Tiếng Pháp bản ngữ nhất. Những người học muốn tiến xa hơn có thể thử học IPA, lý tưởng nhất là càng sớm càng tốt.
 
-_Ngoài Netflix_, có loạt phim hoạt hình Tintin rất đáng xem. Innerfrench cũng có kênh YouTube và mình thích [show hài kịch này](https://www.youtube.com/playlist?list=PLx27SKPG1cw2s-frS_rws2pPSVpXlaPfi). Ngoài ra [Lumni.fr](https://www.lumni.fr/) và [FranceCulture.fr](https://www.franceculture.fr/) có rất nhiều video giáo dục, dù một số bị chặn theo vùng.
+## Kết thúc hướng dẫn: giai đoạn sau và hơn thế nữa
 
-### Đọc sách
+Quá trình học Tiếng Pháp chỉ đơn giản là thực hiện Immersion thật nhiều và học từ vựng với ngữ pháp. Bạn thực sự có thể thông thạo Tiếng Pháp bằng phương pháp này.
 
-Mình thấy đọc cực kỳ quan trọng để học từ mới và ngữ pháp trong ngữ cảnh. Mình đã đọc:
+Bạn cũng sẽ bắt đầu tự làm thẻ từ vựng của mình từ những từ mình tiếp xúc trong quá trình học Tiếng Pháp, được gọi là *mining*. Bạn có thể đọc [Hướng dẫn mining trên trang này](mining.md) (Đây là hướng dẫn sử dụng công cụ để giúp quá trình mining được nhanh hơn. Bạn nên đọc bài [Sentence Mining (Đào câu)](/ngoai-ngu/sentence-mining/) để tìm hiểu thêm). Mining về cơ bản sẽ trở thành phần trọng tâm của *việc học* Tiếng Pháp.
 
-1. _Le Petit Prince_
-2. _Tin Tin_
-3. Nhiều truyện thiếu niên
-4. Một số sách _Mondes en VF_
+*Video dưới đây sẽ giúp bạn hiểu cơ bản về sentence mining (đây là thực hiện thủ công):*
 
-_Mondes en VF_ là loạt sách viết riêng cho người học nhưng nội dung hướng đến người lớn, thú vị hơn sách thiếu niên. Chúng còn có bản audio đi kèm rất hữu ích.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PLnJ1l6f7mQ?si=n1yPcQ7YU72On_es" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Vậy thì tóm gọn lại, mình cần làm những gì để học Tiếng Pháp?
+Cảm ơn bạn rất nhiều vì đã dành thời gian đọc hướng dẫn này. Nếu bạn có bất kỳ câu hỏi nào, bạn có thể hỏi trên kênh Discord của chúng mình.
 
-1. Học hệ thống chữ viết của Tiếng Pháp.
-2. Sử dụng bộ thẻ Anki cho người mới bắt đầu muốn xây dựng vốn từ cơ bản trước khi immerse. Hãy học cách sử dụng Anki qua [Học viện Anki](https://ankivn.com/guides/). Bạn cũng nên cài [Yomitan](https://yomitan.wiki) (Firefox/Chrome) để có thể tra từ bằng cách di chuột.
-3. Vì bạn sẽ học từ vựng song song với ngữ pháp, nên việc điều chỉnh tốc độ học là rất quan trọng. Điều này không có nghĩa là bạn không nên thử thách bản thân. Bạn có thể thay đổi số thẻ mới mỗi ngày trong Anki, nhưng hãy để mặc định trong vài ngày đầu để xem có phù hợp không. Tăng số thẻ nếu bạn thấy còn dư sức, và giảm nếu bạn cảm thấy quá tải (hoặc tự ép mình cố gắng hơn). Khi đã quen, tổng số thẻ cần ôn mỗi ngày thường gấp khoảng 10 lần số thẻ mới (ví dụ: 20 thẻ mới/ngày ≈ 200 thẻ ôn/ngày). Bạn nên đặt giới hạn trên cho số thẻ ôn mỗi ngày ở mức cao nhất có thể, vì việc bỏ lỡ ôn tập sẽ làm ảnh hưởng đến hệ thống lặp lại ngắt quãng (spaced repetition) của Anki. Nếu bạn không theo kịp, hãy giảm số thẻ mới thay vì giới hạn số thẻ ôn.
-4. Để học ngữ pháp, mình gợi ý [Ngữ pháp tiếng Pháp - Trình độ A1 của Tiếng Pháp DelfA1](https://www.youtube.com/playlist?list=PLfQUO2gc3i2MjUt6TH3n_WWaKfVeH0J0U) vì tìm được mỗi cái playlist này trên Youtube là bằng Tiếng Việt.
-5. Sau khi bạn đã học xong giáo trình ngữ pháp đã chọn, bạn có thể bắt đầu đọc tiếng Pháp. Mặc dù không bắt buộc, nhưng việc đọc sẽ dễ hơn nếu bạn đã đạt khoảng 1000–2000 từ vựng (bạn vẫn sẽ phải tra nhiều từ, nhưng sẽ đỡ vất vả hơn).
-6. Ở giai đoạn này, hầu hết mọi người bắt đầu tạo cho mình một mining deck riêng. Đây là bộ từ vựng mà bạn thêm các từ mới mà bạn học được thông qua quá trình immersion. Bạn nên sử dụng [tích hợp Yomitan với Anki](https://yomitan.wiki), cho phép tạo thẻ Anki mới chỉ với một cú nhấp chuột ([hướng dẫn](https://yomitan.wiki/anki)).
-7. Đọc nhiều hơn. Ban đầu việc đọc sẽ chậm, nhưng càng luyện tập bạn sẽ càng tiến bộ.
-8. Tận hưởng những nội dung hấp dẫn.
+[Tham gia cộng đồng học trên Discord](join.md) 
 
-## Từ giờ trở đi
+## Nguồn bài viết
 
-Chà chà, chúc mừng nhé. Bạn đã hoàn thành chương trình này. Đến giai đoạn này, có lẽ bạn sẽ cảm thấy khá thoải mái với tiếng Pháp (và sẽ không còn là một ác mộng như thời còn mới học nữa). Bạn đã (hoặc gần như) đạt đến mức có thể “giao tiếp được”. Bạn đã cảm thấy mình _doué en français_ chưa? Có lẽ là chưa. Nhưng điều đó có quan trọng không? Thật ra là không. Nếu bạn đã đi được đến đây, nghĩa là bạn thực sự yêu thích ngôn ngữ này, và sự lưu loát không còn là mục tiêu duy nhất nữa. Việc học tiếng Pháp giờ đã trở thành một phần trong lối sống của bạn, và miễn là bạn tiếp tục học từ mới, cụm từ mới, thành ngữ, v.v., bạn chắc chắn sẽ đạt đến trình độ mong muốn.
-
-Hãy tiếp tục củng cố tiếng Pháp của bạn thông qua lượng lớn tiếp xúc, immersion và input (đầu vào) dễ hiểu (comprehensible input). Nếu có thể, thử đến Pháp để trải nghiệm văn hóa gắn liền với ngôn ngữ bạn đang học (và tất nhiên là để luyện tiếng Pháp, biết đâu được gặp các oppa thì sao :>).
+Bài viết này được dịch từ bài [Japanese Guide](https://learnjapanese.moe/guide/) và đã hiệu đính lại để phù hợp với những người học Tiếng Pháp.
