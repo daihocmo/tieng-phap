@@ -18,14 +18,13 @@ Ví dụ: Xem phim Pháp không sử dụng phụ đề là một cách ta thự
 
 Học ngoại ngữ theo phương pháp "truyền thống" thì thường sẽ kiểu như này:
 
--   Học các câu cơ bản như câu chào hỏi, tự giới thiệu.
--   Học cấu trúc ngữ pháp và từ vựng cơ bản.
--   Nghĩ ra câu bằng cách trò chuyện với giáo viên hoặc bạn học hoặc bằng cách viết.
--   Dịch các câu ví dụ từ Tiếng Việt sang ngôn ngữ đích (TL - Target Language) và ngược lại.
--   Tra cứu thêm tài liệu về cấu trúc ngữ pháp và từ vựng trong sách giáo khoa hoặc xem video YouTube
--   Thực hành hội thoại sử dụng kiến thức đã học.
--   Tích lũy thêm nhiều cấu trúc từ vựng và ngữ pháp và lấy số lượng làm thước đo cho sự tiến bộ của bản thân
-- Và cuối cùng là đến giai đoạn cuối, chuyển đến sống hoặc đi du lịch Nhật Bản với hy vọng có cơ hội rèn luyện kỹ năng của mình.
+- Học các câu cơ bản như câu chào hỏi, tự giới thiệu.
+- Học cấu trúc ngữ pháp và từ vựng cơ bản.
+- Nghĩ ra câu bằng cách trò chuyện với giáo viên hoặc bạn học hoặc bằng cách viết.
+- Dịch các câu ví dụ từ Tiếng Việt sang ngôn ngữ đích (TL - Target Language) và ngược lại.
+- Tra cứu thêm tài liệu về cấu trúc ngữ pháp và từ vựng trong sách giáo khoa hoặc xem video YouTube
+- Thực hành hội thoại sử dụng kiến thức đã học.
+- Tích lũy thêm nhiều cấu trúc từ vựng và ngữ pháp và lấy số lượng làm thước đo cho sự tiến bộ của bản thân
 
 Bản thân việc học như này hoàn toàn ổn, nhưng chưa đủ để giúp bạn đạt được trình độ cao. Vấn đề là những người học thuộc nhóm trên không tương tác với ngôn ngữ thực tế.
 
@@ -57,6 +56,7 @@ Học ngôn ngữ là một quá trình ghi nhớ các pattern (mẫu) trong vô
 
 Tại sao lại không nói về "biết ngữ pháp" hay "nhớ từ vựng"? Bởi đây không phải là cách xử lý ngôn ngữ tự nhiên. Một số người không phải là người bản ngữ Tiếng Pháp và có thể là đã học ngữ pháp Tiếng Pháp từ trước, nhưng họ sẽ chẳng mấy khi nghĩ về các cấu trúc ngữ pháp khi tương tác với Tiếng Pháp hàng ngày.
 
+
 ## 1.4 Chấp nhận cảm giác khó chịu và mù mờ
 
 ![moyamoya](img/moyamoya_woman.png){:  style="display: block; margin: 0 auto; max-width:40%; height:auto;" }  
@@ -66,9 +66,7 @@ Trong việc học ngôn ngữ hay trong bất cứ lĩnh vực nào đòi hỏi
 Ví dụ, một người học khi cố học một cấu trúc ngữ pháp nào đó quá lâu và không chuyển sang những nội dung khác mà họ nên học.
 
 <div style="text-align: center; font-weight:bold">
-<h3>↑ Đây là điều chúng ta cần tránh</h3 >Đây là lý do tại sao trong việc học ngoại ngữ cần có **"immersion" - đọc và nghe những gì người bản ngữ viết và nói.**
-
-Học ngôn ngữ là một quá trình ghi nhớ các pattern (mẫu) trong vô thức thông qua comprehensible input. Điều này có nghĩa là, khi bạn hiểu điều gì đó (comprehensible) trong quá trình immersion, bộ não của bạn sẽ vô thức lưu mẫu (pattern) đó vào trong đầu để có thể sử dụng trong tương lai. Nó sẽ kiểu như: "Ê mày, có mẫu số 234 được sử dụng với mẫu số 82 và  </div>
+<h3>↑ Đây là điều chúng ta cần tránh</h3 >  </div>
 
 Không dễ dàng gì để có thể hiểu hết quyển tiểu thuyết hay một bộ phim ngay lần đầu. Cần tới lần thứ ba, thứ tư, thứ năm và thậm chí thứ sáu để có thể học được điều gì đó.
 
@@ -98,10 +96,10 @@ Tất nhiên, chúng ta không *chỉ* thực hiện immersion mà không làm g
 
 Quá trình học tập mở đầu bao gồm bao gồm:
 
--   Làm quen với Tiếng Pháp.
--   Học từ vựng cơ bản sử dụng *Anki*.
--   Học ngữ pháp thông qua một danh sách phát trên *YouTube*.
--   Bắt đầu immerse với comprehensible input cường độ cao. Đây là nhiệm vụ mà bạn cần dành phần lớn thời gian.
+- Làm quen với Tiếng Pháp.
+- Học từ vựng cơ bản sử dụng *Anki*.
+- Học ngữ pháp thông qua một danh sách phát trên *YouTube*.
+- Bắt đầu immerse với comprehensible input cường độ cao. Đây là nhiệm vụ mà bạn cần dành phần lớn thời gian.
 
 ### Bảng chữ cái
 
@@ -130,7 +128,7 @@ IPA (*International Phonetic Alphabet*) là một hệ thống ký hiệu dùng 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a69toGGjoO0?si=iO2QH8rYTpqRUfoC&amp;start=17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-(Nhưng tất nhiên cần lưu ý là: Khác với Tiếng Pháp - một ngôn ngữ có cách phát âm cực kì *bất nguyên tắc*, Tiếng Pháp có chính tả khá nhất quán theo quy tắc, nhưng có nhiều âm không tồn tại trong tiếng Việt (nguyên âm mũi, /ʁ/, /y/, /ø/, /œ/, liaison). Vậy nên, **không học cũng được**, nhưng nên học cho biết :>)
+(Nhưng tất nhiên cần lưu ý là: Khác với Tiếng Anh - một ngôn ngữ có cách phát âm cực kì *bất nguyên tắc*, Tiếng Pháp có chính tả khá nhất quán theo quy tắc, nhưng có nhiều âm không tồn tại trong tiếng Việt (nguyên âm mũi, /ʁ/, /y/, /ø/, /œ/, liaison). Vậy nên, **không học cũng được**, nhưng nên học cho biết :>)
 
 Nói cách khác: IPA chỉ là *công cụ* để tham khảo. *IPA không thay thế việc nghe, nó chỉ giúp bạn không hiểu sai những gì bạn nghe*. Quá trình cơ bản là: Khi gặp từ mới, hãy *nghe audio trước* nếu có. Sau đó mới nhìn IPA để xác nhận xem âm mình vừa nghe.
 
@@ -140,7 +138,7 @@ Nói cách khác: IPA chỉ là *công cụ* để tham khảo. *IPA không thay
 
 Công cụ chính được sử dụng là **Anki**, một hệ thống flashcard lặp lại ngắt quãng giúp bạn ghi nhớ từ vựng và câu cơ bản theo thời gian. Tuy nhiên, cần nhấn mạnh rõ một điều: Anki chỉ là **công cụ hỗ trợ trí nhớ**, không phải là toàn bộ việc học tiếng Pháp. Nếu bạn chỉ học Anki mà không tiếp xúc với tiếng Pháp thật, thì bạn mới chỉ tiến bộ trong việc ôn tập thẻ Anki thôi, chứ khả năng Tiếng Pháp vẫn chưa được cải thiện nhiều.
 
-Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là: [**Pháp1K**]() (Kéo xuống là thấy nút Download).
+Bộ thẻ dành cho người mới bắt đầu mà mình gợi ý là: [**Pháp1K**](https://ankiweb.net/shared/info/70809905) (Kéo xuống là thấy nút Download).
 
 ## 2.3 Ngữ pháp
 
