@@ -8,7 +8,6 @@
 - [A1 Playlist](https://www.youtube.com/playlist?list=PLXweyiR2fMMf-ZrjCNNKWoeq8L6tlSFUV): Playlist trình độ A1.
 - [A2 Playlist](https://www.youtube.com/playlist?list=PLXweyiR2fMMdOhjVUW5416qBAtB_YZag5): Playlist trình độ A2.
 - [Alice Ayel](https://www.youtube.com/c/aliceayel/featured): Kể chuyện như cho trẻ em, rất phù hợp người mới.
-
 - [Marie et Médor à Paris](https://www.youtube.com/playlist?list=PLD0666ZhOzwg6J6LN8lNVvTcEy-j_dvUn): Playlist truyện của Alice Ayel.
 - [Histoires de la communauté](https://www.youtube.com/playlist?list=PLD0666ZhOzwjYkGgSlUA44RZEZe8waHCW): Playlist truyện cộng đồng.
 - [Au Portugal](https://www.youtube.com/playlist?list=PLD0666ZhOzwjO9FwLgZ4rjwrRJJVdiY7L): Playlist truyện theo bối cảnh.

@@ -17,7 +17,7 @@ Sau khi cài xong nó sẽ mở một tab mới, bạn đóng trang đó lại v
 
 ![](img/yomi1.jpg)
 
-*nhớ phải thay đổi ngôn ngữ về Tiếng Pháp (French) nhé.*
+*nhớ phải thay đổi ngôn ngữ về Tiếng Pháp (French) nhé (Hiện tại mình đang để Tiếng Hàn - Korean).*
 
 ## Tải từ điển
 
@@ -25,7 +25,14 @@ Khi bạn mới cài Yomitan lần đầu, bạn sẽ cần cài từ điển đ
 
 Những tệp này sử dụng phần mở rộng `.zip` (file extension) và **bạn không cần phải giải nén nó ra.**
 
-Bạn có thể xem danh sách [từ điển Tiếng Pháp cho Yomitan](https://github.com/MarvNC/yomitan-dictionaries?tab=readme-ov-file#korean). Dưới đây là một số từ điển mà mình tìm được (Bấm vào tên từ điển để tải luôn nhé):
+Danh sách từ điển mà cá nhân mình gợi ý (Hiện tại do số lượng từ điển Tiếng Pháp cho Yomitan còn hạn chế nên mình sẽ gợi ý thêm cả những từ điển *không chất lượng lắm*):
+
+- [FVDP Pháp - Việt](https://yomitan-vi.github.io/tu-dien-phap-viet-yomitan/)
+- [OVDP Pháp - Việt](https://github.com/catusf/tudien/releases/download/v4.4/star_phapviet.yomitan.zip)
+- [Wikitionary Pháp - Việt](https://yomidevs.github.io/kaikki-to-yomitan/). Bạn truy cập vào trang rồi kéo xuống phần **Main Dictionaries** và chọn như hình nhé:
+    
+    ![alt text](img/kaikki1.png)
+
 
 ## Cài đặt từ điển và sử dụng cơ bản
 
@@ -45,7 +52,10 @@ Bạn có thể xem danh sách [từ điển Tiếng Pháp cho Yomitan](https://
 5. Giờ là lúc chọn các từ điển để import vào trong Yomitan (là các tệp `.zip` đó). Bạn có thể kéo thả hoặc bấm vào để chọn từ điển bạn đã tải xuống.
 6. Đợi các từ điển được thêm vào. Sẽ mất một lúc (Mình làm trên Firefox thấy lâu hơn so với bên Chromium)
 7. Sau khi hoàn tất, bạn có thể kiểm tra Yomitan bằng cách giữ phím ++shift++ và di chuột qua văn bản Tiếng Pháp. Thử di chuột vào cái này xem: Français. Nó sẽ hiện một pop-up box hiển thị các định nghĩa được chia theo từ điển.
-   ![Yomitan Demo](img/yomidemo1.png)
+
+Demo:
+
+![Yomitan Demo](img/yomidemo1.png)
 
 Bấm ra chỗ khác trên màn hình hoặc phím Esc để ẩn hộp thoại đó đi
 
@@ -57,9 +67,7 @@ Có thể chỉnh kích cỡ Pop-up trong cài đặt và cả giao diện tối
 
 ## Từ điển đo độ phổ biến của từ
 
-Yomitan hỗ trợ từ điển tần suất để cho bạn biết độ phổ biến của từ này
-
-
+Yomitan hỗ trợ từ điển tần suất để cho bạn biết độ phổ biến của từ này (Nhưng hiện tại chưa tìm được gợi ý nào @@)
 
 **Thế nào là từ phổ biến?**
 

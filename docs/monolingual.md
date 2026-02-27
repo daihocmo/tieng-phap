@@ -86,7 +86,7 @@ Mình sẽ cài đặt sử dụng Yomitan vì công cụ này giúp mình có t
 
 ### Từ điển gợi ý
 
-(TODO)
+- [Boppy-FR_FR (KennedyMen/Mensah_Dictionaries)](https://github.com/KennedyMen/Mensah_Dictionaries/blob/main/Boppy-FR_FR-0.9.zip)
 
 Sau đó bạn hãy tải từ điển về và import bộ từ điển đó vào Yomitan.
 
